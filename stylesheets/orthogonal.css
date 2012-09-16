@@ -1,0 +1,33 @@
+.container:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+body {
+  font-family: Verdana, serif;
+  line-height: 15px;
+  font-size: 62.5%;
+  color: #111;
+  padding: 40px;
+}
+
+#wrapper {
+  width: 720px;
+}
+
+#header {
+  float: left;
+}
+
+#header a {
+  display: block;
+  float: left;
+  margin-right: 15px;
+}
+
+#header #twelve {
+  margin-top: 20px;
+}
