@@ -12,7 +12,7 @@ for my $lang (keys %$data) {
     for my $artist (keys %{ $data->{$lang} }) {
         my $artist_info = $data->{$lang}{$artist};
 
-        my $dir = "$lang/12/$artist";
+        my $dir = "../$lang/12/$artist";
 
         system("mkdir -p $dir");
 
