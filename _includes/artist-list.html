@@ -1,0 +1,22 @@
+<ul id="authors">
+{% if page.language == 'en' %}
+  {% for artist in site.artists.en %}
+    {% assign active = nil %}
+    {% if page.url contains artist.url-name %}
+      {% assign active = 'active' %}
+    {% endif %}
+
+    <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+  {% endfor %}
+{% else %}
+  {% for artist in site.artists.bg %}
+    {% assign active = nil %}
+    {% if page.url contains artist.url-name %}
+      {% assign active = 'active' %}
+    {% endif %}
+
+    <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+  {% endfor %}
+{% endif %}
+</ul>
+

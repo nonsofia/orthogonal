@@ -1,0 +1,53 @@
+#!/usr/bin/env perl
+
+use Modern::Perl;
+
+use YAML::XS qw/ LoadFile Dump /;
+use Storable qw/ dclone /;
+use File::Slurp;
+
+my $data = LoadFile('orthosite.yml');
+
+for my $lang (keys %$data) {
+    for my $artist (keys %{ $data->{$lang} }) {
+        my $artist_info = $data->{$lang}{$artist};
+
+        my $dir = "$lang/12/$artist";
+
+        system("mkdir -p $dir");
+
+        my $current = dclone $artist_info->{artworks}[0];
+
+        my $template_data = {
+            layout     => 'author',
+            title      => 'orthogonal',
+            language   => $lang,
+            'url-name' => $artist,
+            info       => $artist_info->{info},
+            current    => $current,
+            artworks   => $artist_info->{artworks}
+        };
+
+
+        write_file("$dir/index.html", to_html($template_data));
+        say "$dir";
+
+        for my $artwork (@{ $artist_info->{artworks} }) {
+            my $dir_artwork = "$dir/$artwork->{'url-name'}";
+
+            system("mkdir -p $dir_artwork");
+
+            $template_data->{current} = dclone $artwork;
+
+            write_file("$dir_artwork/index.html", to_html($template_data));
+            say $dir_artwork;
+        }
+    }
+}
+
+sub to_html {
+    my $template_data = shift;
+
+    my $yaml = Dump($template_data);
+    my $html = $yaml . "---\n{% include artist-content.html %}\n";
+}

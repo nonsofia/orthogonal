@@ -1,0 +1,33 @@
+<div class="container" id="author-content">
+
+  <div id="author-details">
+    {{ page.info }}
+  </div>
+
+  <div id="artwork">
+    <a href="/{{ page.language }}/12/{{ page.url-name }}/{{ page.current.url-name }}">
+      <img src="/images/artists/{{ page.url-name }}/{{ page.current.file }}" alt="{{ page.current.name }}"></a>
+    </a>
+
+    <div id="artwork-details">
+      {{ page.current.info }}
+    </div>
+
+    <div id="paging">
+      {% for artwork in page.artworks %}
+        {% assign active = nil %}
+        {% if page.current.url-name == artwork.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        {% if forloop.length > 1 %}
+         <a class="{{ active }}" href="/{{ page.language }}/12/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>
+
+

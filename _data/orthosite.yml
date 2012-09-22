@@ -1,0 +1,405 @@
+---
+en:
+  angela-thomas:
+    info: |
+      1948<br>
+      zumikon<br>
+      switzerland<br>
+      <a href="http://hausbill.ch">hausbill.ch</a>
+    artworks:
+      - url-name: max-bill-und-seine-zeit
+        file: max-bill-und-seine-zeit.jpg
+        info: |
+          mit subversivem glanz -<br>max bill und seine zeit<br>
+          band 1: 1908 - 1939<br>
+          <a href="http://www.scheidegger-spiess.ch/">scheidegger &amp; spiess</a><br>
+          2008
+  bruno-haas:
+    info: |
+      1967<br>
+      germany
+    artworks:
+      - url-name: 5
+        file: 5.jpg
+        info: | 
+          5, 2003 - 2005<br>
+          oil/acrylic/canvas<br>
+          180 cm
+  barna-benedek:
+    info: |
+      1973<br>
+      hungary<br>
+      <a href="http://www.benedekbarna.hu/">benedekbarna.hu</a>
+    artworks:
+      - url-name: sinus-relax
+        file: sinus-relax.jpg
+        info: |
+          sinus relax, 2012<br>
+          acrylic/canvas/<br>
+          polyester sinus-sheet/<br>
+          polycarbonate back-board<br>
+          100 x 98 x 4 cm
+      - url-name: sinus-linea
+        file: sinus-linea.jpg
+        info: |
+          sinus linea, 2011<br>
+          acrylic/canvas/<br>
+          polyester sinus-sheet/<br>
+          polycarbonate back-board<br>
+          100 x 98 x 4 cm
+      - url-name: sinus-trans
+        file: sinus-trans.jpg
+        info: |
+          sinus trans, 2011<br>
+          acrylic/canvas/<br>
+          polyester sinus-sheet/<br>
+          polycarbonate back-board<br>
+          100 x 98 x 4 cm
+      - url-name: sinus-rouge
+        file: sinus-rouge.jpg
+        info: |
+          sinus rouge, 2011<br>
+          acrylic/canvas/<br>
+          polyester sinus-sheet/<br>
+          polycarbonate back-board<br>
+          100 x 98 x 4 cm
+  dora-maurer:
+    info: |
+      1937<br>
+      hungary
+    artworks:
+      - url-name: space-quasi-image-detail
+        file: space-quasi-image-detail.jpg
+        info: |
+          space quasi image detail, 1982<br>
+          space painting, buchberg project
+      - url-name: space-painting-detail
+        file: space-painting-detail.jpg
+        info: |
+          space painting, buchberg project<br>
+          detail, 1982
+      - url-name: space-painting-video-still-1
+        file: space-painting-video-still-1.jpg
+        info: |
+          space painting,<br>
+          buchberg project<br>
+          video still, 1982
+      - url-name: space-painting-video-still-2
+        file: space-painting-video-still-2.jpg
+        info: |
+          space painting,<br>
+          buchberg project<br>
+          video still, 1982
+  erich-schmid:
+    info: |
+      1947<br>
+      switzerland<br>
+      <a href="http://www.erichschmid.ch">erichschmid.ch</a>
+    artworks:
+      - url-name: max-bill-the-masters-vision
+        file: max-bill-the-masters-vision.jpg
+        info: | 
+          max bill - the master's vision, 2008<br>
+          35 mm, colour, 90 min
+  georgi-dimitrov:
+    info: |
+      1980<br>
+      bulgaria<br>
+      <a href="http://www.larypsed.com"</a>larypsed.com</a>
+    artworks:
+      - url-name: probalance-fragment-1
+        file: probalance-fragment-1.jpg
+        info: |
+          probalance fragment 1, 2011<br>
+          oil/canvas<br>
+          62.5 x 62.5 cm
+      - url-name: probalance-fragment-2
+        file: probalance-fragment-2.jpg
+        info: |
+          probalance fragment 1, 2011<br>
+          oil/canvas<br>
+          62.5 x 62.5 cm
+  georgi-yanakiev:
+    info: |
+      1933 - 1998<br>
+      bulgaria
+    artworks:
+      - url-name: white-vase
+        file: white-vase.jpg
+        info: |
+          white vase<br>
+          oil/canvas<br>
+          67 x 55 cm
+  maria-chakarova:
+    info: |
+      1972<br>
+      bulgaria
+    artworks:
+      - url-name: square-1
+        file: square-1.jpg
+        info: |
+          square 1, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+      - url-name: square-2
+        file: square-2.jpg
+        info: |
+          square 2, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+      - url-name: square-3
+        file: square-3.jpg
+        info: |
+          square 3, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+      - url-name: square-4
+        file: square-4.jpg
+        info: |
+          square 4, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+  jose-heerkens:
+    info: |
+      1950<br>
+      the netherlands<br>
+      <a href="http://www.joseheerkens.nl/">joseheerkens.nl</a>
+    artworks:
+      - url-name: meet-me-in-brooklyn-nr-12
+        file: meet-me-in-brooklyn-nr-12.jpg
+        info: |
+          meet me in brooklyn nr 12, 2011<br>
+          acrylic/cardboard<br>
+          50 x 40 cm
+      - url-name: meet-me-in-brooklyn-nr-17
+        file: meet-me-in-brooklyn-nr-17.jpg
+        info: |
+          meet me in brooklyn nr 17, 2011<br>
+          acrylic/cardboard<br>
+          50 x 40 cm
+      - url-name: meet-me-in-brooklyn-nr-29
+        file: meet-me-in-brooklyn-nr-29.jpg
+        info: |
+          meet me in brooklyn nr 29, 2011<br>
+          acrylic/cardboard<br>
+          50 x 40 cm
+  nikolay-diulgheroff:
+    info: |
+      1901 - 1982<br>
+      bulgaria/italy
+    artworks:
+      - url-name: table-9
+        file: tavola-9.jpg
+        info: |
+          table 9, 1970s<br>
+          serigraph<br>
+          42 x 42 cm
+      - url-name: table-3
+        file: tavola-3.jpg
+        info: |
+          table 3, 1970s<br>
+          serigraph<br>
+          42 x 42 cm
+bg:
+  angela-thomas:
+    info: |
+      1948<br>
+      цумикон<br>
+      швейцария<br>
+      <a href="http://hausbill.ch">hausbill.ch</a>
+    artworks:
+      - url-name: max-bill-und-seine-zeit
+        file: max-bill-und-seine-zeit.jpg
+        info: |
+          с подривен гланц -<br>макс бил и неговото време<br>
+          том 1: 1908 - 1939<br>
+          <a href="http://www.scheidegger-spiess.ch/">scheidegger &amp; spiess</a><br>2008
+  bruno-haas:
+    info: |
+      1967<br>
+      германия
+    artworks:
+      - url-name: 5
+        file: 5.jpg
+        info: |
+          5, 2003 - 2005<br>
+          масло/акрил/платно<br>
+          180 см
+  barna-benedek:
+    info: |
+      1973<br>
+      унгария<br>
+      <a href="http://www.benedekbarna.hu/">benedekbarna.hu</a>
+    artworks:
+      - url-name: sinus-relax
+        file: sinus-relax.jpg
+        info: |
+          синус релакс, 2012<br>
+          акрил/платно/<br>
+          полиестерен синусуиден лист/<br>
+          поликарбонатна основа<br>
+          100 x 98 x 4 см
+      - url-name: sinus-linea
+        file: sinus-linea.jpg
+        info: |
+          синус линеа, 2011<br>
+          акрил/платно/<br>
+          полиестерен синусуиден лист/<br>
+          поликарбонатна основа<br>
+          100 x 98 x 4 см
+      - url-name: sinus-trans
+        file: sinus-trans.jpg
+        info: |
+          синус транс, 2011<br>
+          акрил/платно/<br>
+          полиестерен синусуиден лист/<br>
+          поликарбонатна основа<br>
+          100 x 98 x 4 см
+      - url-name: sinus-rouge
+        file: sinus-rouge.jpg
+        info: |
+          синус руж, 2011<br>
+          акрил/платно/<br>
+          полиестерен синусуиден лист/<br>
+          поликарбонатна основа<br>
+          100 x 98 x 4 см
+  dora-maurer:
+    info: |
+      1937<br>
+      унгария
+    artworks:
+      - url-name: space-quasi-image-detail
+        file: space-quasi-image-detail.jpg
+        info: |
+          детайл от пространствена<br>
+          квази картина, 1982<br>
+          пространствена картина,<br>
+          проект 'бухберг'
+      - url-name: space-painting-detail
+        file: space-painting-detail.jpg
+        info: |
+          пространствена картина,<br>
+          проект 'бухберг'<br>
+          детайл, 1982
+      - url-name: space-painting-video-still-1
+        file: space-painting-video-still-1.jpg
+        info: |
+          пространствена картина,<br>
+          проект 'бухберг'<br>
+          видео кадър, 1982
+      - url-name: space-painting-video-still-2
+        file: space-painting-video-still-2.jpg
+        info: |
+          пространствена картина,<br>
+          проект 'бухберг'<br>
+          видео кадър, 1982
+  erich-schmid:
+    info: |
+      1947<br>
+      швейцария<br>
+      <a href="http://www.erichschmid.ch">erichschmid.ch</a>
+    artworks:
+      - url-name: max-bill-the-masters-vision
+        file: max-bill-the-masters-vision.jpg
+        info: |
+          макс бил - абсолютният поглед, 2008<br>
+          35 мм, цветен, 90 мин.
+  georgi-dimitrov:
+    info: |
+      1980<br>
+      българия<br>
+      <a href="http://www.larypsed.com"</a>larypsed.com</a>
+    artworks:
+      - url-name: probalance-fragment-1
+        file: probalance-fragment-1.jpg
+        info: |
+          пробаланс фрагмент 1, 2011<br>
+          масло/платно<br>
+          62.5 x 62.5 см
+      - url-name: probalance-fragment-2
+        file: probalance-fragment-2.jpg
+        info: |
+          пробаланс фрагмент 2, 2011<br>
+          масло/платно<br>
+          62.5 x 62.5 см
+  georgi-yanakiev:
+    info: |
+      1933 - 1998<br>
+      българия
+    artworks:
+      - url-name: white-vase
+        file: white-vase.jpg
+        info: |
+          бяла ваза<br>
+          масло/платно<br>
+          67 x 55 см
+  maria-chakarova:
+    info: |
+      1972<br>
+      българия
+    artworks: 
+      - url-name: square-1
+        file: square-1.jpg
+        info: |
+          квадрат 1, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+      - url-name: square-2
+        file: square-2.jpg
+        info: |
+          квадрат 2, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+      - url-name: square-3
+        file: square-3.jpg
+        info: |
+          квадрат 3, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+      - url-name: square-3
+        file: square-3.jpg
+        info: |
+          квадрат 3, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+  jose-heerkens:
+    info: |
+      1950<br>
+      холандия<br>
+      <a href="http://www.joseheerkens.nl/">joseheerkens.nl</a>
+    artworks:
+      - url-name: meet-me-in-brooklyn-nr-12
+        file: meet-me-in-brooklyn-nr-12.jpg
+        info: |
+          среща в бруклин 12, 2011<br>
+          акрил/картон<br>
+          50 х 40 см
+      - url-name: meet-me-in-brooklyn-nr-17
+        file: meet-me-in-brooklyn-nr-17.jpg
+        info: |
+          среща в бруклин 17, 2011<br>
+          акрил/картон<br>
+          50 х 40 см
+      - url-name: meet-me-in-brooklyn-nr-29
+        file: meet-me-in-brooklyn-nr-29.jpg
+        info: |
+          среща в бруклин 29, 2011<br>
+          акрил/картон<br>
+          50 х 40 см
+  nikolay-diulgheroff:
+    info: |
+      1901 - 1982<br>
+      българия/италия
+    artworks:
+      - url-name: table-9
+        file: tavola-9.jpg
+        info: |
+          табло 9, 1970-те<br>
+          сериграфия<br>
+          42 х 42  см
+      - url-name: table-3
+        file: tavola-3.jpg
+        info: |
+          табло 3, 1970-те<br>
+          сериграфия<br>
+          42 х 42  см
