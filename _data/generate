@@ -5,6 +5,7 @@ use Modern::Perl;
 use YAML::XS qw/ LoadFile Dump /;
 use Storable qw/ dclone /;
 use File::Slurp;
+use List::MoreUtils qw/ firstidx /;
 
 my $data = LoadFile('orthosite.yml');
 
@@ -25,12 +26,15 @@ for my $lang (keys %$data) {
             'url-name' => $artist,
             info       => $artist_info->{info},
             current    => $current,
-            artworks   => $artist_info->{artworks}
+            artworks   => $artist_info->{artworks},
+            next       => defined $artist_info->{artworks}[1] ? dclone $artist_info->{artworks}[1] : dclone $current
         };
 
 
         write_file("$dir/index.html", to_html($template_data));
         say "$dir";
+
+        my @artworks = @{ $artist_info->{artworks} };
 
         for my $artwork (@{ $artist_info->{artworks} }) {
             my $dir_artwork = "$dir/$artwork->{'url-name'}";
@@ -38,6 +42,10 @@ for my $lang (keys %$data) {
             system("mkdir -p $dir_artwork");
 
             $template_data->{current} = dclone $artwork;
+            my $current_idx = firstidx { $_->{'url-name'} eq $artwork->{'url-name'} } @artworks;
+            my $idx = $current_idx + 1 == @artworks ? 0 : $current_idx + 1;
+
+            $template_data->{next}    = dclone $artworks[$idx];
 
             write_file("$dir_artwork/index.html", to_html($template_data));
             say $dir_artwork;
