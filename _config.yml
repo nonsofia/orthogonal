@@ -23,16 +23,16 @@ artists:
     - url-name: maria-chakarova
       name: maria chakarova
     - url-name: nikolay-diulgheroff
-      name: nikolay diulgeroff
+      name: nikolay diulgheroff
     - url-name: richard-van-der-aa
       name: richard van der aa
     - url-name: tibor-gayor
-      name: tibor gayor
+      name: tibor gáyor
   bg:
-    - url-name: andras-wolsky
-      name: андраш волски
     - url-name: angela-thomas
       name: ангела томас
+    - url-name: andras-wolsky
+      name: андраш волски
     - url-name: barna-benedek
       name: барна бенедек
     - url-name: bruno-haas

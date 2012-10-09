@@ -1,9 +1,35 @@
 ---
 en:
+  andras-wolsky:
+    info: |
+      1969<br>
+      hungary<br>
+      <a href="http://www.wolsky.hu">wolsky.hu</a>
+    artworks:
+      - url-name: random-geometry-of-a-4x6-system-1
+        file: random-geometry-1.jpg
+        info: |
+          random geometry of a<br>
+          4 x 6 system 1, 2012<br>
+          acrylic/canvas/wood<br>
+          60 x 60 cm
+      - url-name: random-geometry-of-a-4x6-system-2
+        file: random-geometry-2.jpg
+        info: |
+          random geometry of a<br>
+          4 x 6 system 2, 2012<br>
+          acrylic/canvas/wood<br>
+          60 x 60 cm
+      - url-name: random-geometry-of-a-4x6-system-3
+        file: random-geometry-3.jpg
+        info: |
+          random geometry of a<br>
+          4 x 6 system 3, 2012<br>
+          acrylic/canvas/wood<br>
+          60 x 60 cm
   angela-thomas:
     info: |
       1948<br>
-      zumikon<br>
       switzerland<br>
       <a href="http://hausbill.ch">hausbill.ch</a>
     artworks:
@@ -36,32 +62,28 @@ en:
         info: |
           sinus relax, 2012<br>
           acrylic/canvas/<br>
-          polyester sinus-sheet/<br>
-          polycarbonate back-board<br>
+          polyester/polycarbonate<br>
           100 x 98 x 4 cm
       - url-name: sinus-linea
         file: sinus-linea.jpg
         info: |
           sinus linea, 2011<br>
           acrylic/canvas/<br>
-          polyester sinus-sheet/<br>
-          polycarbonate back-board<br>
+          polyester/polycarbonate<br>
           100 x 98 x 4 cm
       - url-name: sinus-trans
         file: sinus-trans.jpg
         info: |
           sinus trans, 2011<br>
           acrylic/canvas/<br>
-          polyester sinus-sheet/<br>
-          polycarbonate back-board<br>
+          polyester/polycarbonate<br>
           100 x 98 x 4 cm
       - url-name: sinus-rouge
         file: sinus-rouge.jpg
         info: |
           sinus rouge, 2011<br>
           acrylic/canvas/<br>
-          polyester sinus-sheet/<br>
-          polycarbonate back-board<br>
+          polyester/polycarbonate<br>
           100 x 98 x 4 cm
   dora-maurer:
     info: |
@@ -78,47 +100,40 @@ en:
         info: |
           space painting, buchberg project<br>
           detail, 1982
-      - url-name: space-painting-video-still-1
-        file: space-painting-video-still-1.jpg
-        info: |
-          space painting,<br>
-          buchberg project<br>
-          video still, 1982
-      - url-name: space-painting-video-still-2
-        file: space-painting-video-still-2.jpg
-        info: |
-          space painting,<br>
-          buchberg project<br>
-          video still, 1982
   erich-schmid:
     info: |
       1947<br>
       switzerland<br>
       <a href="http://www.erichschmid.ch">erichschmid.ch</a>
     artworks:
-      - url-name: max-bill-the-masters-vision
-        file: max-bill-the-masters-vision.jpg
+      - url-name: max-bill-the-masters-vision-1
+        file: max-bill-the-masters-vision-1.jpg
         info: | 
-          max bill - the master's vision, 2008<br>
-          35 mm, colour, 90 min
+          <a href="http://www.maxbillfilm.ch">max bill - the master's vision</a>, 2008<br>
+          35 mm, colour, dolby sr-d, 93 min
+      - url-name: max-bill-the-masters-vision-2
+        file: max-bill-the-masters-vision-2.jpg
+        info: | 
+          <a href="http://www.maxbillfilm.ch">max bill - the master's vision</a>, 2008<br>
+          35 mm, colour, dolby sr-d, 93 min
   georgi-dimitrov:
     info: |
       1980<br>
       bulgaria<br>
       <a href="http://www.larypsed.com"</a>larypsed.com</a>
     artworks:
-      - url-name: probalance-fragment-1
-        file: probalance-fragment-1.jpg
+      - url-name: dynamic-equilibrium-in-white
+        file: dynamic-equilibrium-in-white.jpg
         info: |
-          probalance fragment 1, 2011<br>
+          equilibrium in white, 2011<br>
           oil/canvas<br>
-          62.5 x 62.5 cm
-      - url-name: probalance-fragment-2
-        file: probalance-fragment-2.jpg
+          80 x 80 cm
+      - url-name: straight-line-within-a-circle
+        file: straight-line-within-a-circle.jpg
         info: |
-          probalance fragment 1, 2011<br>
+          straight line within a circle, 2011<br>
           oil/canvas<br>
-          62.5 x 62.5 cm
+          86 x 86 cm
   georgi-yanakiev:
     info: |
       1933 - 1998<br>
@@ -130,15 +145,35 @@ en:
           white vase<br>
           oil/canvas<br>
           67 x 55 cm
+  guido-winkler:
+    info: |
+      1969<br>
+      the netherlands<br>
+      <a href="http://guidowinkler.com">guidowinkler.com</a>
+    artworks:
+      - url-name: seeing-a-rectangle-a-litle-different-1
+        file: rectangle-2.jpg
+        info: |
+          one of the endless possibilities of seeing a<br>
+          particular rectangle a little different, 2012<br>
+          acrylic/wood<br>
+          40 x 28 x 3 cm
+      - url-name: seeing-a-rectangle-a-litle-different-2
+        file: rectangle-1.jpg
+        info: |
+          one of the endless possibilities of seeing a<br>
+          particular rectangle a little different, 2011<br>
+          acrylic/wood<br>
+          30 x 20 x 2 cm
   maria-chakarova:
     info: |
       1972<br>
       bulgaria
     artworks:
-      - url-name: square-1
-        file: square-1.jpg
+      - url-name: composition-in-gray-and-white
+        file: composition-in-gray-and-white.jpg
         info: |
-          square 1, 2012<br>
+          composition in<br> gray and white, 2012<br>
           oil/canvas<br>
           80 x 80 cm
       - url-name: square-2
@@ -165,16 +200,16 @@ en:
       the netherlands<br>
       <a href="http://www.joseheerkens.nl/">joseheerkens.nl</a>
     artworks:
-      - url-name: meet-me-in-brooklyn-nr-12
-        file: meet-me-in-brooklyn-nr-12.jpg
+      - url-name: meet-me-in-brooklyn-nr-30
+        file: meet-me-in-brooklyn-nr-30.jpg
         info: |
-          meet me in brooklyn nr 12, 2011<br>
+          meet me in brooklyn nr 30, 2011<br>
           acrylic/cardboard<br>
           50 x 40 cm
-      - url-name: meet-me-in-brooklyn-nr-17
-        file: meet-me-in-brooklyn-nr-17.jpg
+      - url-name: meet-me-in-brooklyn-nr-16
+        file: meet-me-in-brooklyn-nr-16.jpg
         info: |
-          meet me in brooklyn nr 17, 2011<br>
+          meet me in brooklyn nr 16, 2011<br>
           acrylic/cardboard<br>
           50 x 40 cm
       - url-name: meet-me-in-brooklyn-nr-29
@@ -193,18 +228,92 @@ en:
         info: |
           table 9, 1970s<br>
           serigraph<br>
-          42 x 42 cm
+          40 x 40 cm
       - url-name: table-3
         file: tavola-3.jpg
         info: |
           table 3, 1970s<br>
           serigraph<br>
-          42 x 42 cm
+          40 x 40 cm
+  richard-van-der-aa:
+    info: |
+      1963<br>
+      new zealand/the netherlands<br>
+      <a href="http://richardvanderaa.com/">richardvanderaa.com</a>
+    artworks:
+      - url-name: reasons-to-be-cheerful-1
+        file: reasons-to-be-cheerful-1.jpg
+        info: |
+          reasons to be cheerful, 2010<br>
+          acrylic/aluminium<br>
+          52 x 35 cm
+      - url-name: reasons-to-be-cheerful-2
+        file: reasons-to-be-cheerful-2.jpg
+        info: |
+          reasons to be cheerful, 2010<br>
+          acrylic/aluminium<br>
+          52 x 35 cm
+      - url-name: reasons-to-be-cheerful-3
+        file: reasons-to-be-cheerful-3.jpg
+        info: |
+          reasons to be cheerful, 2010<br>
+          acrylic/aluminium<br>
+          52 x 35 cm
+      - url-name: reasons-to-be-cheerful-4
+        file: reasons-to-be-cheerful-4.jpg
+        info: |
+          reasons to be cheerful, 2010<br>
+          acrylic/aluminium<br>
+          52 x 35 cm
+  tibor-gayor:
+    info: |
+      1929<br>
+      hungary/austria
+    artworks:
+      - url-name: sq-8of8-spiral-demontage
+        file: sq-8of8-spiral-demontage.jpg
+        info: |
+          sq 8/8 spiral demontage<br>
+          1 - 16, 1974<br>
+          canvas/collage/wood<br>
+          70 x 70 cm each
+      - url-name: capriccio-1
+        file: capriccio-1.jpg
+        info: |
+          capriccio 1, 1982<br>
+          canvas/collage/wood<br>
+          100 x 100 cm
 bg:
+  andras-wolsky:
+    info: |
+      1969<br>
+      унгария<br>
+      <a href="http://www.wolsky.hu">wolsky.hu</a>
+    artworks:
+      - url-name: random-geometry-of-a-4x6-system-1
+        file: random-geometry-1.jpg
+        info: |
+          случайна геометрия от<br>
+          система 4 х 6 1, 2012<br>
+          акрил/платно/дърво<br>
+          60 х 60 см
+      - url-name: random-geometry-of-a-4x6-system-2
+        file: random-geometry-2.jpg
+        info: |
+          случайна геометрия от<br>
+          система 4 х 6 2, 2012<br>
+          акрил/платно/дърво<br>
+          60 х 60 см
+      - url-name: random-geometry-of-a-4x6-system-3
+        file: random-geometry-3.jpg
+        info: |
+          случайна геометрия от<br>
+          система 4 х 6 3, 2012<br>
+          акрил/платно/дърво<br>
+          60 х 60 см
   angela-thomas:
     info: |
       1948<br>
-      цумикон<br>
       швейцария<br>
       <a href="http://hausbill.ch">hausbill.ch</a>
     artworks:
@@ -236,32 +345,28 @@ bg:
         info: |
           синус релакс, 2012<br>
           акрил/платно/<br>
-          полиестерен синусуиден лист/<br>
-          поликарбонатна основа<br>
+          полиестер/поликарбонат<br>
           100 x 98 x 4 см
       - url-name: sinus-linea
         file: sinus-linea.jpg
         info: |
           синус линеа, 2011<br>
           акрил/платно/<br>
-          полиестерен синусуиден лист/<br>
-          поликарбонатна основа<br>
+          полиестер/поликарбонат<br>
           100 x 98 x 4 см
       - url-name: sinus-trans
         file: sinus-trans.jpg
         info: |
           синус транс, 2011<br>
           акрил/платно/<br>
-          полиестерен синусуиден лист/<br>
-          поликарбонатна основа<br>
+          полиестер/поликарбонат<br>
           100 x 98 x 4 см
       - url-name: sinus-rouge
         file: sinus-rouge.jpg
         info: |
           синус руж, 2011<br>
           акрил/платно/<br>
-          полиестерен синусуиден лист/<br>
-          поликарбонатна основа<br>
+          полиестер/поликарбонат<br>
           100 x 98 x 4 см
   dora-maurer:
     info: |
@@ -271,57 +376,50 @@ bg:
       - url-name: space-quasi-image-detail
         file: space-quasi-image-detail.jpg
         info: |
-          детайл от пространствена<br>
+          детайл от просторна<br>
           квази картина, 1982<br>
-          пространствена картина,<br>
+          просторна картина,<br>
           проект 'бухберг'
       - url-name: space-painting-detail
         file: space-painting-detail.jpg
         info: |
-          пространствена картина,<br>
+          просторна картина,<br>
           проект 'бухберг'<br>
           детайл, 1982
-      - url-name: space-painting-video-still-1
-        file: space-painting-video-still-1.jpg
-        info: |
-          пространствена картина,<br>
-          проект 'бухберг'<br>
-          видео кадър, 1982
-      - url-name: space-painting-video-still-2
-        file: space-painting-video-still-2.jpg
-        info: |
-          пространствена картина,<br>
-          проект 'бухберг'<br>
-          видео кадър, 1982
   erich-schmid:
     info: |
       1947<br>
       швейцария<br>
       <a href="http://www.erichschmid.ch">erichschmid.ch</a>
     artworks:
-      - url-name: max-bill-the-masters-vision
-        file: max-bill-the-masters-vision.jpg
+      - url-name: max-bill-the-masters-vision-1
+        file: max-bill-the-masters-vision-1.jpg
         info: |
-          макс бил - абсолютният поглед, 2008<br>
-          35 мм, цветен, 90 мин.
+          <a href="http://www.maxbillfilm.ch">макс бил - абсолютният поглед</a>, 2008<br>
+          35 мм, цветен, dolby sr-d, 93 мин.
+      - url-name: max-bill-the-masters-vision-2
+        file: max-bill-the-masters-vision-2.jpg
+        info: |
+          <a href="http://www.maxbillfilm.ch">макс бил - абсолютният поглед</a>, 2008<br>
+          35 мм, цветен, dolby sr-d, 93 мин.
   georgi-dimitrov:
     info: |
       1980<br>
       българия<br>
       <a href="http://www.larypsed.com"</a>larypsed.com</a>
     artworks:
-      - url-name: probalance-fragment-1
-        file: probalance-fragment-1.jpg
+      - url-name: dynamic-equilibrium-in-white
+        file: dynamic-equilibrium-in-white.jpg
         info: |
-          пробаланс фрагмент 1, 2011<br>
+          равновесие в бяло, 2011<br>
           масло/платно<br>
-          62.5 x 62.5 см
-      - url-name: probalance-fragment-2
-        file: probalance-fragment-2.jpg
+          80 х 80 см
+      - url-name: straight-line-within-a-circle
+        file: straight-line-within-a-circle.jpg
         info: |
-          пробаланс фрагмент 2, 2011<br>
+          права линия в кръг, 2011<br>
           масло/платно<br>
-          62.5 x 62.5 см
+          86 х 86 см
   georgi-yanakiev:
     info: |
       1933 - 1998<br>
@@ -333,15 +431,35 @@ bg:
           бяла ваза<br>
           масло/платно<br>
           67 x 55 см
+  guido-winkler:
+    info: |
+      1969<br>
+      холандия<br>
+      <a href="http://guidowinkler.com">guidowinkler.com</a>
+    artworks:
+      - url-name: seeing-a-rectangle-a-litle-different-1
+        file: rectangle-2.jpg
+        info: |
+          една от безбройните възможности да видиш<br>
+          определен правоъгълник различно, 2012<br>
+          акрил/дърво<br>
+          40 x 28 x 3 см
+      - url-name: seeing-a-rectangle-a-litle-different-2
+        file: rectangle-1.jpg
+        info: |
+          една от безбройните възможности да видиш<br>
+          определен правоъгълник различно, 2011<br>
+          акрил/дърво<br>
+          30 x 20 x 2 cm
   maria-chakarova:
     info: |
       1972<br>
       българия
     artworks: 
-      - url-name: square-1
-        file: square-1.jpg
+      - url-name: composition-in-gray-and-white
+        file: composition-in-gray-and-white.jpg
         info: |
-          квадрат 1, 2012<br>
+          композиция в сиво и бяло, 2012<br>
           масло/платно<br>
           80 x 80 см
       - url-name: square-2
@@ -356,8 +474,8 @@ bg:
           квадрат 3, 2012<br>
           масло/платно<br>
           80 x 80 см
-      - url-name: square-3
-        file: square-3.jpg
+      - url-name: square-4
+        file: square-4.jpg
         info: |
           квадрат 3, 2012<br>
           масло/платно<br>
@@ -368,16 +486,16 @@ bg:
       холандия<br>
       <a href="http://www.joseheerkens.nl/">joseheerkens.nl</a>
     artworks:
-      - url-name: meet-me-in-brooklyn-nr-12
-        file: meet-me-in-brooklyn-nr-12.jpg
+      - url-name: meet-me-in-brooklyn-nr-30
+        file: meet-me-in-brooklyn-nr-30.jpg
         info: |
-          среща в бруклин 12, 2011<br>
+          среща в бруклин 30, 2011<br>
           акрил/картон<br>
           50 х 40 см
-      - url-name: meet-me-in-brooklyn-nr-17
-        file: meet-me-in-brooklyn-nr-17.jpg
+      - url-name: meet-me-in-brooklyn-nr-16
+        file: meet-me-in-brooklyn-nr-16.jpg
         info: |
-          среща в бруклин 17, 2011<br>
+          среща в бруклин 16, 2011<br>
           акрил/картон<br>
           50 х 40 см
       - url-name: meet-me-in-brooklyn-nr-29
@@ -396,10 +514,58 @@ bg:
         info: |
           табло 9, 1970-те<br>
           сериграфия<br>
-          42 х 42  см
+          40 х 40  см
       - url-name: table-3
         file: tavola-3.jpg
         info: |
           табло 3, 1970-те<br>
           сериграфия<br>
-          42 х 42  см
+          40 х 40  см
+  richard-van-der-aa:
+    info: |
+      1963<br>
+      нова зеландия/холандия<br>
+      <a href="http://richardvanderaa.com/">richardvanderaa.com</a>
+    artworks:
+      - url-name: reasons-to-be-cheerful-1
+        file: reasons-to-be-cheerful-1.jpg
+        info: |
+          причини да бъдеш бодър, 2010<br>
+          акрил/алуминий<br>
+          52 х 35 см
+      - url-name: reasons-to-be-cheerful-2
+        file: reasons-to-be-cheerful-2.jpg
+        info: |
+          причини да бъдеш бодър, 2010<br>
+          акрил/алуминий<br>
+          52 х 35 см
+      - url-name: reasons-to-be-cheerful-3
+        file: reasons-to-be-cheerful-3.jpg
+        info: |
+          причини да бъдеш бодър, 2010<br>
+          акрил/алуминий<br>
+          52 х 35 см
+      - url-name: reasons-to-be-cheerful-4
+        file: reasons-to-be-cheerful-4.jpg
+        info: |
+          причини да бъдеш бодър, 2010<br>
+          акрил/алуминий<br>
+          52 х 35 см
+  tibor-gayor:
+    info: |
+      1929<br>
+      унгария/австрия
+    artworks:
+      - url-name: sq-8of8-spirademontage
+        file: sq-8of8-spiral-demontage.jpg
+        info: |
+          sq 8/8 демонтаж на спирала<br>
+          1 - 16, 1974<br>
+          платно/колаж/дърво<br>
+          70 х 70 см всяко
+      - url-name: capriccio-1
+        file: capriccio-1.jpg
+        info: |
+          каприз 1, 1982<br>
+          платно/колаж/дърво<br>
+          100 х 100 см

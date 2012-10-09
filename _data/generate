@@ -15,6 +15,7 @@ for my $lang (keys %$data) {
 
         my $dir = "../$lang/12/$artist";
 
+        system("rm -r $dir");
         system("mkdir -p $dir");
 
         my $current = dclone $artist_info->{artworks}[0];
