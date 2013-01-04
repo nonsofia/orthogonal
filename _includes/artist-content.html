@@ -9,10 +9,7 @@
       <img src="/images/artists/{{ page.url-name }}/{{ page.current.file }}" alt="{{ page.current.name }}"></a>
     </a>
 
-    <div id="artwork-details">
-      {{ page.current.info }}
-    </div>
-
+    {% if page.url contains 'views' %}
     <div id="paging">
       {% for artwork in page.artworks %}
         {% assign active = nil %}
@@ -25,6 +22,31 @@
         {% endif %}
       {% endfor %}
     </div>
+    {% endif %}
+
+    
+    {% if page.url contains 'views' %}
+    <div id="artwork-details" style="clear: right; margin-top: 12px">
+    {% else %}
+    <div id="artwork-details">
+    {% endif %}
+      {{ page.current.info }}
+    </div>
+
+    {% unless page.url contains 'views' %}
+    <div id="paging">
+      {% for artwork in page.artworks %}
+        {% assign active = nil %}
+        {% if page.current.url-name == artwork.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        {% if forloop.length > 1 %}
+         <a class="{{ active }}" href="/{{ page.language }}/12/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endunless %}
 
   </div>
 

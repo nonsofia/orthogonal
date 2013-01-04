@@ -45,12 +45,18 @@ en:
       1967<br>
       germany
     artworks:
-      - url-name: 5
+      - url-name: five
         file: 5.jpg
         info: | 
           5, 2003 - 2005<br>
           oil/acrylic/canvas<br>
           180 cm
+      - url-name: else
+        file: else.jpg
+        info: |
+          else, 2012<br>
+          oil/acrylic/canvas<br>
+          50 sm
   barna-benedek:
     info: |
       1973<br>
@@ -145,6 +151,18 @@ en:
           white vase<br>
           oil/canvas<br>
           67 x 55 cm
+      - url-name: abstraction-4
+        file: abstraction-4.jpg
+        info: |
+          abstraction 4, 1990s<br>
+          oil/canvas<br>
+          70 x 50 cm
+      - url-name: present
+        file: present.jpg
+        info: |
+          present, 1990s<br>
+          oil/canvas<br>
+          70 x 50 cm
   guido-winkler:
     info: |
       1969<br>
@@ -289,7 +307,6 @@ en:
       - url-name: orthogonal-poster
         file: poster.png
         info: |
-          poster<br>
           georgi dimitrov<br>
           orthogonal poster, 2012<br>
           115 silkscreen prints
@@ -299,56 +316,48 @@ en:
       - url-name: mc-jh-gd-bb
         file: 1-mc-jh-gd-bb.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: jh-gd-bb
         file: 2-jh-gd-bb.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: gd-bb-aw
         file: 3-gd-bb-aw.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: gd-bh-mc-jh
         file: 4-gd-bh-mc-jh.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: aw-gy-bh
         file: 5-aw-gy-bh.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: dm-nd-gw-rvda
         file: 6-dm-nd-gw-rvda.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: gw-rvda-gw
         file: 7-gw-rvda-gw.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
       - url-name: bb-aw-tg
         file: 8-bb-aw-tg.jpg
         info: |
-          views<br>
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
           barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
           dóra maurer nikolay diulgheroff guido winkler richard van der aa
@@ -398,12 +407,18 @@ bg:
       1967<br>
       германия
     artworks:
-      - url-name: 5
+      - url-name: five
         file: 5.jpg
         info: |
           5, 2003 - 2005<br>
           масло/акрил/платно<br>
           180 см
+      - url-name: else
+        file: else.jpg
+        info: |
+          else, 2012<br>
+          масло/акрил/платно<br>
+          50 sm
   barna-benedek:
     info: |
       1973<br>
@@ -501,6 +516,18 @@ bg:
           бяла ваза<br>
           масло/платно<br>
           67 x 55 см
+      - url-name: abstraction-4
+        file: abstraction-4.jpg
+        info: |
+          абстракция 4, 1990s<br>
+          масло/платно<br>
+          70 x 50 см
+      - url-name: present
+        file: present.jpg
+        info: |
+          съвремие, 1990s<br>
+          масло/платно<br>
+          70 x 50 см
   guido-winkler:
     info: |
       1969<br>
@@ -645,7 +672,6 @@ bg:
       - url-name: orthogonal-poster
         file: poster.png
         info: |
-          плакат<br>
           георги димитров<br>
           плакат ортогонал, 2012<br>
           115 копия, ситопечат
@@ -655,56 +681,48 @@ bg:
       - url-name: mc-jh-gd-bb
         file: 1-mc-jh-gd-bb.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: jh-gd-bb
         file: 2-jh-gd-bb.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: gd-bb-aw
         file: 3-gd-bb-aw.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: gd-bh-mc-jh
         file: 4-gd-bh-mc-jh.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: aw-gy-bh
         file: 5-aw-gy-bh.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: dm-nd-gw-rvda
         file: 6-dm-nd-gw-rvda.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: gw-rvda-gw
         file: 7-gw-rvda-gw.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
       - url-name: bb-aw-tg
         file: 8-bb-aw-tg.jpg
         info: |
-          гледки<br>
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
           барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
           маурер николай дюлгеров гидо винклер ричард ван дер аа
