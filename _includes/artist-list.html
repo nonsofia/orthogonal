@@ -1,22 +1,46 @@
-<ul id="authors">
-{% if page.language == 'en' %}
-  {% for artist in site.artists.en %}
-    {% assign active = nil %}
-    {% if page.url contains artist.url-name %}
-      {% assign active = 'active' %}
+<div id="authors">
+  <ul class="artists">
+    {% if page.language == 'en' %}
+      {% for artist in site.artists.en %}
+        {% assign active = nil %}
+        {% if page.url contains artist.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for artist in site.artists.bg %}
+        {% assign active = nil %}
+        {% if page.url contains artist.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+
+  <div class="separator">
+  </div>
+
+  <ul class="misc">
+    {% assign poster_active = nil %}
+    {% if page.url contains 'poster' %}
+      {% assign poster_active = 'active' %}
     {% endif %}
 
-    <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
-  {% endfor %}
-{% else %}
-  {% for artist in site.artists.bg %}
-    {% assign active = nil %}
-    {% if page.url contains artist.url-name %}
-      {% assign active = 'active' %}
+    {% assign views_active = nil %}
+    {% if page.url contains 'views' %}
+      {% assign views_active = 'active' %}
     {% endif %}
 
-    <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
-  {% endfor %}
-{% endif %}
-</ul>
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">poster</a></li>
+    <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">views</a></li>
+    <li><a href="#">video</a></li>
+  </ul>
+
+</div>
+
+
 

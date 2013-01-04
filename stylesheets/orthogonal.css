@@ -160,9 +160,28 @@ em {
 #authors {
   clear: left;
   float: left;
-  list-style: none;
   width: 210px;
   font-size: 1.1em;
+}
+
+#authors ul {
+  clear: both;
+  list-style: none;
+}
+
+#authors .artists {
+  padding-bottom: 15px;
+}
+
+#authors .separator {
+  height: 6px;
+  width: 102px;
+  background: #E7001E;
+  float: right;
+}
+
+#authors .misc {
+  margin-top: 18px;
 }
 
 #authors li {
@@ -202,6 +221,7 @@ em {
   position: relative;
   margin-left: 225px;
   text-align: center;
+  height: 328px;
 }
 
 #author-details {
@@ -243,7 +263,7 @@ em {
 }
 
 #artwork img {
-  height: 339px;
+  height: 334px;
 }
 
 #paging {

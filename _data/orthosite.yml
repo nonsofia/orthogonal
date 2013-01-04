@@ -283,6 +283,76 @@ en:
           capriccio 1, 1982<br>
           canvas/collage/wood<br>
           100 x 100 cm
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster.png
+        info: |
+          poster<br>
+          georgi dimitrov<br>
+          orthogonal poster, 2012<br>
+          115 silkscreen prints
+  views:
+    info: ''
+    artworks:
+      - url-name: mc-jh-gd-bb
+        file: 1-mc-jh-gd-bb.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: jh-gd-bb
+        file: 2-jh-gd-bb.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: gd-bb-aw
+        file: 3-gd-bb-aw.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: gd-bh-mc-jh
+        file: 4-gd-bh-mc-jh.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: aw-gy-bh
+        file: 5-aw-gy-bh.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: dm-nd-gw-rvda
+        file: 6-dm-nd-gw-rvda.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: gw-rvda-gw
+        file: 7-gw-rvda-gw.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+      - url-name: bb-aw-tg
+        file: 8-bb-aw-tg.jpg
+        info: |
+          views<br>
+          in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
+          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
+          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+
 bg:
   andras-wolsky:
     info: |
@@ -569,3 +639,72 @@ bg:
           каприз 1, 1982<br>
           платно/колаж/дърво<br>
           100 х 100 см
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster.png
+        info: |
+          плакат<br>
+          георги димитров<br>
+          плакат ортогонал, 2012<br>
+          115 копия, ситопечат
+  views:
+    info: ''
+    artworks:
+      - url-name: mc-jh-gd-bb
+        file: 1-mc-jh-gd-bb.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: jh-gd-bb
+        file: 2-jh-gd-bb.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: gd-bb-aw
+        file: 3-gd-bb-aw.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: gd-bh-mc-jh
+        file: 4-gd-bh-mc-jh.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: aw-gy-bh
+        file: 5-aw-gy-bh.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: dm-nd-gw-rvda
+        file: 6-dm-nd-gw-rvda.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: gw-rvda-gw
+        file: 7-gw-rvda-gw.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
+      - url-name: bb-aw-tg
+        file: 8-bb-aw-tg.jpg
+        info: |
+          гледки<br>
+          по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
+          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
+          маурер николай дюлгеров гидо винклер ричард ван дер аа
