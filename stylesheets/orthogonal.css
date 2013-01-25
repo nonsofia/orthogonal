@@ -57,7 +57,6 @@ body {
   line-height: 1.4;
   color: #111;
   padding: 40px;
-  text-shadow: 0 0 1px rgba(0,0,0,0.3);
 }
 
 a {
@@ -254,7 +253,7 @@ em {
 }
 
 #artwork-details.views {
-  margin-top: 9px;
+  margin-top: 15px;
   clear: right;
 }
 #artwork #artwork-details a {
