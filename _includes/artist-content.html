@@ -9,10 +9,28 @@
       <img src="/images/artists/{{ page.url-name }}/{{ page.current.file }}" alt="{{ page.current.name }}"></a>
     </a>
 
-    <div id="artwork-details">
+    {% assign class = nil %}
+    {% if page.url contains 'views' %}
+      {% assign class = 'class="views"' %}
+    <div id="paging" style="clear: left">
+      {% for artwork in page.artworks %}
+        {% assign active = nil %}
+        {% if page.current.url-name == artwork.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        {% if forloop.length > 1 %}
+         <a class="{{ active }}" href="/{{ page.language }}/12/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div {{ class }} id="artwork-details">
       {{ page.current.info }}
     </div>
 
+    {% unless page.url contains 'views' %}
     <div id="paging">
       {% for artwork in page.artworks %}
         {% assign active = nil %}
@@ -25,6 +43,7 @@
         {% endif %}
       {% endfor %}
     </div>
+    {% endunless %}
 
   </div>
 

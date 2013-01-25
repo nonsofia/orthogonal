@@ -1,4 +1,10 @@
+<!--[if lt IE 9]>
 <script>
+    $('a, p').wrap('<div style="zoom:0.25;"><div style="zoom:1;filter:progid:DXImageTransform.Microsoft.Blur(pixelRadius=2);"><div style="zoom:4;"></div></div></div>')
+</script>
+<![endif]-->
+<script>
+
     $(document).keydown(function (e) {
       var keyCode = e.keyCode || e.which,
           arrow = { left: 37, up: 38, right: 39, down: 40 };

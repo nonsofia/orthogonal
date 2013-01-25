@@ -57,6 +57,7 @@ body {
   line-height: 1.4;
   color: #111;
   padding: 40px;
+  text-shadow: 0 0 1px rgba(0,0,0,0.3);
 }
 
 a {
@@ -178,14 +179,25 @@ em {
   width: 102px;
   background: #E7001E;
   float: right;
+  clear: both;
 }
 
 #authors .misc {
-  margin-top: 18px;
+  margin-top: 15px;
 }
 
 #authors li {
   text-align: right;
+  clear: both;
+  height: 16px;
+}
+
+#authors li a {
+  display: block;
+  line-height: 16px;
+  height: 16px;
+
+  float: right;
 }
 
 #authors li a.active {
@@ -241,6 +253,10 @@ em {
   float: right
 }
 
+#artwork-details.views {
+  margin-top: 9px;
+  clear: right;
+}
 #artwork #artwork-details a {
   float: none;
   display: inline;
@@ -263,11 +279,11 @@ em {
 }
 
 #artwork img {
-  height: 334px;
+  height: 331px;
 }
 
 #paging {
-  padding-top: 9px;
+  padding-top: 11px;
   text-align: left;
   clear: right;
   float: right;
