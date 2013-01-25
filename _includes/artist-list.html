@@ -36,8 +36,13 @@
       {% assign views_active = 'active' %}
     {% endif %}
 
+    {% if page.language == 'en' %}
     <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">poster</a></li>
     <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">views</a></li>
+    {% else %}
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">постер</a></li>
+    <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">гледки</a></li>
+    {% endif %}
   </ul>
 
 </div>
