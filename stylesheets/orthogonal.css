@@ -281,6 +281,9 @@ em {
   height: 331px;
 }
 
+#artwork.poster img {
+  height: 404px;
+}
 #paging {
   padding-top: 11px;
   text-align: left;

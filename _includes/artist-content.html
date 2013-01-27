@@ -4,7 +4,11 @@
     {{ page.info }}
   </div>
 
-  <div id="artwork">
+  {% assign class = nil %}
+  {% if page.url contains 'poster' %}
+    {% assign class = 'class="poster"' %}
+  {% endif %}
+    <div {{ class }} id="artwork">
     <a href="/{{ page.language }}/12/{{ page.url-name }}/{{ page.next.url-name }}">
       <img src="/images/artists/{{ page.url-name }}/{{ page.current.file }}" alt="{{ page.current.name }}"></a>
     </a>

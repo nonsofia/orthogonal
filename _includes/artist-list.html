@@ -1,5 +1,5 @@
 <div id="authors">
-  <ul class="artists">
+  <ul class="arrow-nav artists">
     {% if page.language == 'en' %}
       {% for artist in site.artists.en %}
         {% assign active = nil %}
@@ -25,7 +25,7 @@
   </div>
   <div style="clear: both"></div>
 
-  <ul class="misc">
+  <ul class="arrow-nav misc">
     {% assign poster_active = nil %}
     {% if page.url contains 'poster' %}
       {% assign poster_active = 'active' %}
