@@ -175,7 +175,7 @@ en:
           one of the endless possibilities of seeing a<br>
           particular rectangle a little different, 2012<br>
           acrylic/wood<br>
-          40 x 28 x 3 cm
+          38 x 27 x 1 cm
       - url-name: seeing-a-rectangle-a-litle-different-2
         file: rectangle-1.jpg
         info: |
@@ -317,50 +317,59 @@ en:
         file: 1-mc-jh-gd-bb.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: jh-gd-bb
         file: 2-jh-gd-bb.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: gd-bb-aw
         file: 3-gd-bb-aw.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: gd-bh-mc-jh
         file: 4-gd-bh-mc-jh.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: aw-gy-bh
         file: 5-aw-gy-bh.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: dm-nd-gw-rvda
         file: 6-dm-nd-gw-rvda.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: gw-rvda-gw
         file: 7-gw-rvda-gw.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
       - url-name: bb-aw-tg
         file: 8-bb-aw-tg.jpg
         info: |
           in order of appearance: maria chakarova josé heerkens georgi dimitrov<br>
-          barna benedek andrás wolsky tibor gáyor bruno haas georgi yanakiev<br>
-          dóra maurer nikolay diulgheroff guido winkler richard van der aa
+          barna benedek andrás wolsky bruno haas georgi yanakiev dóra maurer<br>
+          nikolay diulgheroff guido winkler richard van der aa tibor gáyor
+  video:
+    info: ''
+    artworks:
+      - url-name: opening-speech
+        file: ''
+        info: |
+          georgi dimitrov<br>
+          opening speech<br>
+          video
 
 bg:
   andras-wolsky:
@@ -540,7 +549,7 @@ bg:
           една от безбройните възможности да видиш<br>
           определен правоъгълник различно, 2012<br>
           акрил/дърво<br>
-          40 x 28 x 3 см
+          38 x 27 x 1 см
       - url-name: seeing-a-rectangle-a-litle-different-2
         file: rectangle-1.jpg
         info: |
@@ -682,47 +691,56 @@ bg:
         file: 1-mc-jh-gd-bb.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: jh-gd-bb
         file: 2-jh-gd-bb.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: gd-bb-aw
         file: 3-gd-bb-aw.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: gd-bh-mc-jh
         file: 4-gd-bh-mc-jh.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: aw-gy-bh
         file: 5-aw-gy-bh.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: dm-nd-gw-rvda
         file: 6-dm-nd-gw-rvda.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: gw-rvda-gw
         file: 7-gw-rvda-gw.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
       - url-name: bb-aw-tg
         file: 8-bb-aw-tg.jpg
         info: |
           по ред на представянето: мария чакърова йозе хееркеннс георги димитров<br>
-          барна бенедек андраш волски тибор гайор бруно хаас георги янакиев дора<br>
-          маурер николай дюлгеров гидо винклер ричард ван дер аа
+          барна бенедек андраш волски бруно хаас георги янакиев дора маурер<br>
+          николай дюлгеров гидо винклер ричард ван дер аа тибор гайор
+  video:
+    info: ''
+    artworks:
+      - url-name: opening-speech
+        file: ''
+        info: |
+          георги димитров<br>
+          откриване<br>
+          видео
