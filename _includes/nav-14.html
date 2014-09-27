@@ -1,22 +1,22 @@
 <div id="nav">
   <ul class="arrow-nav artists">
     {% if page.language == 'en' %}
-      {% for artist in site.artists.en %}
+      {% for artist in site.artists.year14.en %}
         {% assign active = nil %}
         {% if page.url contains artist.url-name %}
           {% assign active = 'active' %}
         {% endif %}
 
-        <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+        <li><a class="{{ active }}" href="/{{ page.language }}/14/{{ artist.url-name }}/">{{ artist.name }}</a></li>
       {% endfor %}
     {% else %}
-      {% for artist in site.artists.bg %}
+      {% for artist in site.artists.year14.bg %}
         {% assign active = nil %}
         {% if page.url contains artist.url-name %}
           {% assign active = 'active' %}
         {% endif %}
 
-        <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+        <li><a class="{{ active }}" href="/{{ page.language }}/14/{{ artist.url-name }}/">{{ artist.name }}</a></li>
       {% endfor %}
     {% endif %}
   </ul>
@@ -42,13 +42,13 @@
     {% endif %}
 
     {% if page.language == 'en' %}
-    <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">poster</a></li>
-    <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">views</a></li>
-    <li><a class="{{ video_active }}" href="/{{ page.language }}/12/video">video</a></li>
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/14/poster">poster</a></li>
+    {% comment %}<li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">views</a></li>{% endcomment %}
+    {% comment %}<li><a class="{{ video_active }}" href="/{{ page.language }}/12/video">video</a></li>{% endcomment %}
     {% else %}
-    <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">постер</a></li>
-    <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">гледки</a></li>
-    <li><a class="{{ video_active }}" href="/{{ page.language }}/12/video">видео</a></li>
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/14/poster">постер</a></li>
+    {% comment %}<li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">гледки</a></li>{% endcomment %}
+    {% comment %}<li><a class="{{ video_active }}" href="/{{ page.language }}/12/video">видео</a></li>{% endcomment %}
     {% endif %}
   </ul>
 

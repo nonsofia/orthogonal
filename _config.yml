@@ -58,3 +58,55 @@ artists:
         name: ричард ван дер аа
       - url-name: tibor-gayor
         name: тибор гайор
+  year14:
+    en:
+      - url-name: anna-maria-bogner
+        name: anna-maria bogner
+      - url-name: arjan-janssen
+        name: arjan janssen
+      - url-name: bob-bonies
+        name: bob bonies
+      - url-name: bruno-haas
+        name: bruno haas
+      - url-name: georgi-dimitrov
+        name: georgi dimitrov
+      - url-name: guillaume-millet
+        name: guillaume millet
+      - url-name: krasimira-stikar
+        name: krasimira stikar
+      - url-name: maria-chakarova
+        name: maria chakarova
+      - url-name: max-bill
+        name: max bill
+      - url-name: simon-ingram
+        name: simon ingram
+      - url-name: theodore-markoglu
+        name: theodore markoglou
+      - url-name: yorgos-vourlidas
+        name: yorgos vourlidas
+    bg:
+      - url-name: anna-maria-bogner
+        name: анна-мария богнер
+      - url-name: arjan-janssen
+        name: арян янсен
+      - url-name: bob-bonies
+        name: боб бонис
+      - url-name: bruno-haas
+        name: бруно хаас
+      - url-name: georgi-dimitrov
+        name: георги димитров
+      - url-name: guillaume-millet
+        name: гийом мийе
+      - url-name: yorgos-vourlidas
+        name: йоргос вурлидас
+      - url-name: krasimira-stikar
+        name: красимира стикар
+      - url-name: max-bill
+        name: макс бил
+      - url-name: maria-chakarova
+        name: мария чакърова
+      - url-name: simon-ingram
+        name: саймън инграм
+      - url-name: theodore-markoglu
+        name: тодорис маркоглу
+
