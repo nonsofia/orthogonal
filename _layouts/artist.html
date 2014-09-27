@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" type="text/css" href="/stylesheets/orthogonal.css">
 
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} {{ page.year }}</title>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     {% include arrow-nav.html %}
@@ -21,7 +21,11 @@
 
         {% include header.html %}
 
-        {% include artist-list.html %}
+        {% if page.year == 12 %}
+          {% include nav-12.html %}
+        {% else %}
+          {% include nav-14.html %}
+        {% endif %}
 
         {{ content }}
 

@@ -25,13 +25,14 @@ for my $lang (keys %$data) {
         my $current = dclone $artist_info->{artworks}[0];
 
         my $template_data = {
-            layout     => 'author',
+            layout     => 'artist',
             title      => 'orthogonal',
             language   => $lang,
             'url-name' => $artist,
             info       => $artist_info->{info},
             current    => $current,
             artworks   => $artist_info->{artworks},
+            year       => $year,
             next       => defined $artist_info->{artworks}[1] ? dclone $artist_info->{artworks}[1] : dclone $current
         };
 

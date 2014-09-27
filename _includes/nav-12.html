@@ -1,0 +1,58 @@
+<div id="nav">
+  <ul class="arrow-nav artists">
+    {% if page.language == 'en' %}
+      {% for artist in site.artists.year12.en %}
+        {% assign active = nil %}
+        {% if page.url contains artist.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for artist in site.artists.year12.bg %}
+        {% assign active = nil %}
+        {% if page.url contains artist.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        <li><a class="{{ active }}" href="/{{ page.language }}/12/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+
+  <div class="separator">
+  </div>
+  <div style="clear: both"></div>
+
+  <ul class="arrow-nav misc">
+    {% assign poster_active = nil %}
+    {% if page.url contains 'poster' %}
+      {% assign poster_active = 'active' %}
+    {% endif %}
+
+    {% assign views_active = nil %}
+    {% if page.url contains 'views' %}
+      {% assign views_active = 'active' %}
+    {% endif %}
+
+    {% assign video_active = nil %}
+    {% if page.url contains 'video' %}
+      {% assign video_active = 'active' %}
+    {% endif %}
+
+    {% if page.language == 'en' %}
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">poster</a></li>
+    <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">views</a></li>
+    <li><a class="{{ video_active }}" href="/{{ page.language }}/12/video">video</a></li>
+    {% else %}
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/12/poster">постер</a></li>
+    <li><a class="{{ views_active }}" href="/{{ page.language }}/12/views">гледки</a></li>
+    <li><a class="{{ video_active }}" href="/{{ page.language }}/12/video">видео</a></li>
+    {% endif %}
+  </ul>
+
+</div>
+
+
+

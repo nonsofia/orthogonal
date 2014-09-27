@@ -4,15 +4,12 @@
     {% if url == '/' %}
     <a class="active" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
     <a class="year" href="/{{ page.language }}/12"><img src="/images/12.png" alt="12"></a>
-    <a class="year" href="/{{ page.language }}/14"><img src="/images/14.png" alt="14"></a>
-    {% elsif url == '/12/' %}
+    {% elsif url contains '/12/' %}
     <a class="" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
     <a class="year active" href="/{{ page.language }}/12"><img src="/images/12.png" alt="12"></a>
-    <a class="year" href="/{{ page.language }}/14"><img src="/images/14.png" alt="14"></a>
     {% else %}
     <a class="" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
     <a class="year active" href="/{{ page.language }}/14"><img src="/images/14.png" alt="14"></a>
-    <a class="year" href="/{{ page.language }}/12"><img src="/images/12.png" alt="12"></a>
     {% endif %}
     <a id="start" href="/">&nbsp;</a>
   </div>

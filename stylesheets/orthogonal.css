@@ -123,9 +123,8 @@ em {
   height: 15px;
 }
 
-#header #twelve {
+#header .year {
   margin-top: 19px;
-  margin-right: 0;
 }
 
 #lang {
@@ -157,23 +156,23 @@ em {
   text-align: justify;
 }
 
-#authors {
+#nav {
   clear: left;
   float: left;
   width: 210px;
   font-size: 1.1em;
 }
 
-#authors ul {
+#nav ul {
   clear: both;
   list-style: none;
 }
 
-#authors .artists {
+#nav .artists {
   padding-bottom: 15px;
 }
 
-#authors .separator {
+#nav .separator {
   height: 6px;
   width: 102px;
   background: #E7001E;
@@ -181,17 +180,17 @@ em {
   clear: both;
 }
 
-#authors .misc {
+#nav .misc {
   margin-top: 15px;
 }
 
-#authors li {
+#nav li {
   text-align: right;
   clear: both;
   height: 16px;
 }
 
-#authors li a {
+#nav li a {
   display: block;
   line-height: 16px;
   height: 16px;
@@ -199,7 +198,7 @@ em {
   float: right;
 }
 
-#authors li a.active {
+#nav li a.active {
   color: #E7001E
 }
 
