@@ -15,7 +15,7 @@
       {% assign class = 'class="poster"' %}
     {% endif %}
       <div {{ class }} id="artwork">
-      <a href="/{{ page.language }}/12/{{ page.url-name }}/{{ page.next.url-name }}">
+        <a href="/{{ page.language }}/{{ page.year }}/{{ page.url-name }}/{{ page.next.url-name }}">
         <img src="/images/artists/{{ page.url-name }}/{{ page.current.file }}" alt="{{ page.current.name }}"></a>
       </a>
 
@@ -30,7 +30,7 @@
           {% endif %}
 
           {% if forloop.length > 1 %}
-           <a class="{{ active }}" href="/{{ page.language }}/12/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
+            <a class="{{ active }}" href="/{{ page.language }}/{{ page.year }}/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
           {% endif %}
         {% endfor %}
       </div>
@@ -49,7 +49,7 @@
           {% endif %}
 
           {% if forloop.length > 1 %}
-           <a class="{{ active }}" href="/{{ page.language }}/12/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
+            <a class="{{ active }}" href="/{{ page.language }}/{{ page.year }}/{{ page.url-name }}/{{ artwork.url-name }}">&nbsp;</a>
           {% endif %}
         {% endfor %}
       </div>

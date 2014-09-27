@@ -1,0 +1,471 @@
+---
+en:
+  anna-maria-bogner:
+    info: |
+      1984<br>
+      austria<br>
+      <a href="http://ambogner.com/">ambogner.com</a>
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          untitled, 2013<br>
+          pencil/crayon/paper<br>
+          36 x 48 cm
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          untitled, 2013<br>
+          pencil/crayon/paper<br>
+          36 x 48 cm
+      - url-name: "3"
+        file: untitled-3.jpg
+        info: |
+          untitled, 2013<br>
+          pencil/crayon/paper<br>
+          36 x 48 cm
+  arjan-janssen:
+    info: |
+      1965<br>
+      the netherlands<br>
+      <a href="http://www.arjanjanssen.nl/">arjanjanssen.nl</a>
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          untitled, 2014<br>
+          siberian chalk/graphite/paper<br>
+          80 x 60 cm
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          untitled, 2014<br>
+          siberian chalk/graphite/paper<br>
+          80 x 60 cm
+  bob-bonies:
+    info: |
+      1937<br>
+      the netherlands<br>
+      <a href="http://www.bonies.nl/en/">bonies.nl</a>
+    artworks:
+      - url-name: 02-II
+        file: 02-II.jpg
+        info: |
+          02-II, 2002<br>
+          acrylic/canvas
+      - url-name: untitled-1981
+        file: untitled.jpg
+        info: |
+          untitled, 1981<br>
+          acrylic/canvas<br>
+          140 x 140 cm
+  bruno-haas:
+    info: |
+      1967<br>
+      germany
+    artworks:
+      - url-name: else
+        file: else.jpg
+        info: |
+          else, 2012<br>
+          oil/acrylic/canvas<br>
+          50 cm
+      - url-name: five
+        file: 5.jpg
+        info: | 
+          5, 2003 - 2005<br>
+          oil/acrylic/canvas<br>
+          180 cm
+  georgi-dimitrov:
+    info: |
+      1980<br>
+      bulgaria<br>
+      <a href="http://www.larypsed.com"</a>larypsed.com</a>
+    artworks:
+      - url-name: static-white
+        file: static-white.jpg
+        info: |
+          static white, 2013<br>
+          oil/canvas<br>
+          141 cm diagonal
+      - url-name: dynamic-white
+        file: dynamic-white.jpg
+        info: |
+          dynamic white, 2013<br>
+          oil/canvas<br>
+          141 cm diagonal
+  guillaume-millet:
+    info: |
+      1970<br>
+      france
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          untitled, 2014<br>
+          acrylic/canvas<br>
+          62 x 46 cm
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          untitled, 2014<br>
+          acrylic/canvas<br>
+          70 x 70 cm
+  krasimira-stikar:
+    info: |
+      1980<br>
+      bulgaria/austria<br>
+      <a href="http://krasimira.at/">krasimira.at</a>
+    artworks:
+      - url-name: komposition-21
+        file: komposition-21.jpg
+        info: |
+          komposition 21, 2013<br>
+          pencil/paper<br>
+          30 x 40 cm
+      - url-name: raeumlich-bewegung
+        file: raeumlich-bewegung.jpg
+        info: |
+          räumlich bewegung, 2013<br>
+          pencil/paper<br>
+          70 x 100 cm
+      - url-name: raeumlich-stillstand
+        file: raeumlich-stillstand.jpg
+        info: |
+          räumlich stillstand, 2013<br>
+          pencil/paper<br>
+          70 x 100 cm
+  maria-chakarova:
+    info: |
+      1972<br>
+      bulgaria
+    artworks:
+      - url-name: composition-in-gray-and-white
+        file: composition-in-gray-and-white.jpg
+        info: |
+          composition in<br> gray and white, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+      - url-name: square-2
+        file: square-2.jpg
+        info: |
+          square 2, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+      - url-name: square-3
+        file: square-3.jpg
+        info: |
+          square 3, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+      - url-name: square-4
+        file: square-4.jpg
+        info: |
+          square 4, 2012<br>
+          oil/canvas<br>
+          80 x 80 cm
+  max-bill:
+    info: |
+      1908<br>
+      switzerland<br>
+      <a href="http://hausbill.ch/">hausbill.ch</a>
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          untitled, undated<br>
+          pencil/paper<br>
+          21 x 19 cm
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          untitled, undated<br>
+          pencil/paper<br>
+          14 x 21 cm
+  simon-ingram:
+    info: |
+      1971<br>
+      new zealand
+    artworks:
+      - url-name: krasnodar
+        file: krasnodar.jpg
+        info: |
+          krasnodar, 2011<br>
+          oil/canvas<br>
+          170 x 170 cm
+      - url-name: matotchkinchar
+        file: matotchkinchar.jpg
+        info: |
+          matotchkinchar, 2011<br>
+          oil/canvas<br>
+          170 x 170 cm
+      - url-name: smoking-bolts
+        file: smoking-bolts.jpg
+        info: |
+          smoking bolts, 2013<br>
+          installation view
+  yorgos-vourlidas:
+    info: |
+      1977<br>
+      greece<br>
+    artworks:
+      - url-name: granny12
+        file: granny12.jpg
+        info: |
+          granny records 12 – front cover, 2013<br>
+          offset print<br>
+          14 x 14 cm
+      - url-name: granny13
+        file: granny13.jpg
+        info: |
+          granny records 13 – front cover, 2014<br>
+          offset print<br>
+          18.5 x 18.5 cm
+      - url-name: granny14-1
+        file: granny14-1.jpg
+        info: |
+          granny records 14 – poster, 2013<br>
+          digital print<br>
+          50 x 35 cm
+      - url-name: granny14-2
+        file: granny14-2.jpg
+        info: |
+          granny records 14 – poster, 2013<br>
+          digital print<br>
+          50 x 35 cm
+
+bg:
+  anna-maria-bogner:
+    info: |
+      1984<br>
+      австрия<br>
+      <a href="http://ambogner.com/">ambogner.com</a>
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          без заглавие, 2013<br>
+          молив/пастел/хартия<br>
+          36 x 48 см
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          без заглавие, 2013<br>
+          молив/пастел/хартия<br>
+          36 x 48 см
+      - url-name: "3"
+        file: untitled-3.jpg
+        info: |
+          без заглавие, 2013<br>
+          молив/пастел/хартия<br>
+          36 x 48 см
+  arjan-janssen:
+    info: |
+      1965<br>
+      холандия<br>
+      <a href="http://www.arjanjanssen.nl/">arjanjanssen.nl</a>
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          без заглавие, 2014<br>
+          креда/графит/хартия<br>
+          80 x 60 см
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          без заглавие, 2014<br>
+          креда/графит/хартия<br>
+          80 x 60 см
+  bob-bonies:
+    info: |
+      1937<br>
+      холандия<br>
+      <a href="http://www.bonies.nl/en/">bonies.nl</a>
+    artworks:
+      - url-name: 02-II
+        file: 02-II.jpg
+        info: |
+          02-II, 2002<br>
+          акрил/платно
+      - url-name: untitled-1981
+        file: untitled.jpg
+        info: |
+          untitled, 1981<br>
+          акрил/платно<br>
+          140 x 140 см
+  bruno-haas:
+    info: |
+      1967<br>
+      германия
+    artworks:
+      - url-name: else
+        file: else.jpg
+        info: |
+          else, 2012<br>
+          масло/акрил/платно<br>
+          50 см
+      - url-name: five
+        file: 5.jpg
+        info: |
+          5, 2003 - 2005<br>
+          масло/акрил/платно<br>
+          180 см
+  georgi-dimitrov:
+    info: |
+      1980<br>
+      българия<br>
+      <a href="http://www.larypsed.com"</a>larypsed.com</a>
+    artworks:
+      - url-name: static-white
+        file: static-white.jpg
+        info: |
+          статично бяло, 2013<br>
+          масло/платно<br>
+          141 см диагонал
+      - url-name: dynamic-white
+        file: dynamic-white.jpg
+        info: |
+          динамично бяло, 2013<br>
+          масло/платно<br>
+          141 см диагонал
+  guillaume-millet:
+    info: |
+      1970<br>
+      франция
+    artworks:
+      - url-name: "1"
+        file: untitle-1.jpg
+        info: |
+          без заглавие, 2014<br>
+          акрил/платно<br>
+          62 x 46 см
+      - url-name: "2"
+        file: untitle-2.jpg
+        info: |
+          без заглавие, 2014<br>
+          акрил/платно<br>
+          70 x 70 см
+  krasimira-stikar:
+    info: |
+      1980<br>
+      българия/австрия<br>
+      <a href="http://krasimira.at/">krasimira.at</a>
+    artworks:
+      - url-name: komposition-21
+        file: komposition-21.jpg
+        info: |
+          композиция 21, 2013<br>
+          молив/хартия<br>
+          30 x 40 см
+      - url-name: raeumlich-bewegung
+        file: raeumlich-bewegung.jpg
+        info: |
+          пространствено движение, 2013<br>
+          молив/хартия<br>
+          70 x 100 см
+      - url-name: raeumlich-stillstand
+        file: raeumlich-stillstand.jpg
+        info: |
+          пространствен покой, 2013<br>
+          молив/хартия<br>
+          70 x 100 см
+  maria-chakarova:
+    info: |
+      1972<br>
+      българия
+    artworks: 
+      - url-name: composition-in-gray-and-white
+        file: composition-in-gray-and-white.jpg
+        info: |
+          композиция в сиво и бяло, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+      - url-name: square-2
+        file: square-2.jpg
+        info: |
+          квадрат 2, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+      - url-name: square-3
+        file: square-3.jpg
+        info: |
+          квадрат 3, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+      - url-name: square-4
+        file: square-4.jpg
+        info: |
+          квадрат 3, 2012<br>
+          масло/платно<br>
+          80 x 80 см
+  max-bill:
+    info: |
+      1908<br>
+      швейцария<br>
+      <a href="http://hausbill.ch/">hausbill.ch</a>
+    artworks:
+      - url-name: "1"
+        file: untitled-1.jpg
+        info: |
+          без заглавие, недатирана<br>
+          молив/хартия<br>
+          21 x 19 см
+      - url-name: "2"
+        file: untitled-2.jpg
+        info: |
+          без заглавие, недатирана<br>
+          молив/хартия<br>
+          14 x 21 cm
+  simon-ingram:
+    info: |
+      1971<br>
+      нова зеландия
+    artworks:
+      - url-name: krasnodar
+        file: krasnodar.jpg
+        info: |
+          краснодар, 2011<br>
+          масло/платно<br>
+          170 x 170 см
+      - url-name: matotchkinchar
+        file: matotchkinchar.jpg
+        info: |
+          маточкинчар, 2011<br>
+          масло/платно<br>
+          170 x 170 см
+      - url-name: smoking-bolts
+        file: smoking-bolts.jpg
+        info: |
+          smoking bolts, 2013<br>
+          инсталационна снимка
+  yorgos-vourlidas:
+    info: |
+      1977<br>
+      гърция<br>
+    artworks:
+      - url-name: granny12
+        file: granny12.jpg
+        info: |
+          granny records 12 – обложка, 2013<br>
+          офсетов печат<br>
+          14 x 14 см
+      - url-name: granny13
+        file: granny13.jpg
+        info: |
+          granny records 13 – обложка, 2014<br>
+          офсетов печат<br>
+          18.5 x 18.5 см
+      - url-name: granny14-1
+        file: granny14-1.jpg
+        info: |
+          granny records 14 – постер, 2013<br>
+          дигитален печат<br>
+          50 x 35 см
+      - url-name: granny14-2
+        file: granny14-2.jpg
+        info: |
+          granny records 14 – постер, 2013<br>
+          дигитален печат<br>
+          50 x 35 см
+
