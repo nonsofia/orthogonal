@@ -7,13 +7,17 @@ use Storable qw/ dclone /;
 use File::Slurp;
 use List::MoreUtils qw/ firstidx /;
 
-my $data = LoadFile('orthosite.yml');
+my $year = shift;
+
+die "generate <year>\n" unless $year;
+
+my $data = LoadFile("$year.yml");
 
 for my $lang (keys %$data) {
     for my $artist (keys %{ $data->{$lang} }) {
         my $artist_info = $data->{$lang}{$artist};
 
-        my $dir = "../$lang/12/$artist";
+        my $dir = "../$lang/$year/$artist";
 
         system("rm -r $dir");
         system("mkdir -p $dir");
