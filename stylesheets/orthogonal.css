@@ -291,6 +291,10 @@ em {
 #artwork.poster img {
   height: 404px;
 }
+
+.year14 #artwork.poster img {
+  height: 371px;
+}
 #paging {
   padding-top: 11px;
   text-align: left;
