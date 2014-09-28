@@ -9,19 +9,19 @@ en:
       - url-name: "1"
         file: untitled-1.jpg
         info: |
-          untitled, 2013<br>
+          untitled 1, triptych, 2013<br>
           pencil/crayon/paper<br>
           36 x 48 cm
       - url-name: "2"
         file: untitled-2.jpg
         info: |
-          untitled, 2013<br>
+          untitled 2, triptych, 2013<br>
           pencil/crayon/paper<br>
           36 x 48 cm
       - url-name: "3"
         file: untitled-3.jpg
         info: |
-          untitled, 2013<br>
+          untitled 3, triptych, 2013<br>
           pencil/crayon/paper<br>
           36 x 48 cm
   arjan-janssen:
@@ -253,19 +253,19 @@ bg:
       - url-name: "1"
         file: untitled-1.jpg
         info: |
-          без заглавие, 2013<br>
+          без заглавие, триптих, 2013<br>
           молив/пастел/хартия<br>
           36 x 48 см
       - url-name: "2"
         file: untitled-2.jpg
         info: |
-          без заглавие, 2013<br>
+          без заглавие, триптих, 2013<br>
           молив/пастел/хартия<br>
           36 x 48 см
       - url-name: "3"
         file: untitled-3.jpg
         info: |
-          без заглавие, 2013<br>
+          без заглавие, триптих, 2013<br>
           молив/пастел/хартия<br>
           36 x 48 см
   arjan-janssen:
