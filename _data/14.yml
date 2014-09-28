@@ -233,6 +233,15 @@ en:
           granny records 14 – poster, 2013<br>
           digital print<br>
           50 x 35 cm
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster.png
+        info: |
+          georgi dimitrov<br>
+          orthogonal poster, 2012<br>
+          115 silkscreen prints
 
 bg:
   anna-maria-bogner:
@@ -468,4 +477,12 @@ bg:
           granny records 14 – постер, 2013<br>
           дигитален печат<br>
           50 x 35 см
-
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster-14.png
+        info: |
+          георги димитров<br>
+          плакат ортогонал, 2014<br>
+          115 копия, ситопечат
