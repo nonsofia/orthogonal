@@ -75,7 +75,7 @@ em {
 }
 
 #wrapper {
-  width: 820px;
+  width: 830px;
 }
 
 #header {
@@ -211,7 +211,7 @@ em {
 
 #sponsors li {
   float: left;
-  margin-left: 51px;
+  margin-left: 60px;
   width: 80px;
   height: 40px;
   text-align: center;
@@ -232,6 +232,10 @@ em {
   margin-left: 225px;
   text-align: center;
   height: 328px;
+}
+
+.year14 #author-content {
+  height: 296px;
 }
 
 #author-details {
@@ -278,6 +282,10 @@ em {
 
 #artwork img {
   height: 331px;
+}
+
+.year14 #artwork img {
+  height: 299px;
 }
 
 #artwork.poster img {

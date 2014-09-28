@@ -7,7 +7,11 @@
           {% assign active = 'active' %}
         {% endif %}
 
-        <li><a class="{{ active }}" href="/{{ page.language }}/14/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+        {% if artist.url-name == 'theodore-markoglou' %}
+          <li>{{ artist.name }}</li>
+        {% else %}
+          <li><a class="{{ active }}" href="/{{ page.language }}/14/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+        {% endif %}
       {% endfor %}
     {% else %}
       {% for artist in site.artists.year14.bg %}
@@ -16,7 +20,11 @@
           {% assign active = 'active' %}
         {% endif %}
 
-        <li><a class="{{ active }}" href="/{{ page.language }}/14/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+        {% if artist.url-name == 'theodore-markoglou' %}
+          <li>{{ artist.name }}</li>
+        {% else %}
+          <li><a class="{{ active }}" href="/{{ page.language }}/14/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+        {% endif %}
       {% endfor %}
     {% endif %}
   </ul>
