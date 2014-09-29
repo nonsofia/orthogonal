@@ -204,6 +204,26 @@ en:
         info: |
           smoking bolts, 2013<br>
           installation view
+  theodore-markoglou:
+    info: |
+      1977<br>
+      greece
+    artworks:
+      - url-name: collage-cut-and-paste
+        file: collage-cut-and-paste.jpg
+        info: |
+          collage. cut and paste<br>
+          exhibition catalogue<br>
+          <a href="http://www.greekstatemuseum.com/kmst/index.html">smca</a><br>
+          2008
+      - url-name: personal-political
+        file: personal-political.jpg
+        info: |
+          personal - political<br>
+          <a href="http://biennale2.thessalonikibiennale.gr/">biennale:2</a>, parallel program<br>
+          exhibition catalogue<br>
+          co-curated with areti leopoulou<br>
+          2009
   yorgos-vourlidas:
     info: |
       1977<br>
@@ -237,10 +257,10 @@ en:
     info: ''
     artworks:
       - url-name: orthogonal-poster
-        file: poster.png
+        file: poster-14.png
         info: |
           georgi dimitrov<br>
-          orthogonal poster, 2012<br>
+          orthogonal poster, 2014<br>
           115 silkscreen prints
 
 bg:
@@ -477,6 +497,26 @@ bg:
           granny records 14 – постер, 2013<br>
           дигитален печат<br>
           50 x 35 см
+  theodore-markoglou:
+    info: |
+      1977<br>
+      greece
+    artworks:
+      - url-name: collage-cut-and-paste
+        file: collage-cut-and-paste.jpg
+        info: |
+          колаж. изрежи и постави<br>
+          каталог<br>
+          <a href="http://www.greekstatemuseum.com/kmst/index.html">държавен музей за съвременно изкуство</a><br>
+          2008
+      - url-name: personal-political
+        file: personal-political.jpg
+        info: |
+          лично - политическо<br>
+          <a href="http://biennale2.thessalonikibiennale.gr/">biennale:2</a>, паралелна програма<br>
+          каталог<br>
+          съавтор арети леопулу<br>
+          2009
   poster:
     info: ''
     artworks:

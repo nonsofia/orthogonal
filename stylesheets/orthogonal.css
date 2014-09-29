@@ -98,6 +98,14 @@ em {
   border-bottom: 6px solid #111;
 }
 
+#header a.clean {
+  border: 0;
+}
+
+#header a.clean:hover {
+  border-bottom: 6px solid #111;
+}
+
 #header a.active {
   border-bottom: 6px solid #E7001E;
 }
