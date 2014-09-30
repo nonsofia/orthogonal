@@ -214,7 +214,7 @@ en:
         info: |
           collage. cut and paste<br>
           exhibition catalogue<br>
-          <a href="http://www.greekstatemuseum.com/kmst/index.html">smca</a><br>
+          <a href="http://www.greekstatemuseum.com/kmst/index.html">smca</a>, thessaloniki<br>
           2008
       - url-name: personal-political
         file: personal-political.jpg
@@ -223,6 +223,7 @@ en:
           <a href="http://biennale2.thessalonikibiennale.gr/">biennale:2</a>, parallel program<br>
           exhibition catalogue<br>
           co-curated with areti leopoulou<br>
+          <a href="http://www.cact.gr/">cact</a>, thessaloniki<br>
           2009
   yorgos-vourlidas:
     info: |
@@ -507,7 +508,7 @@ bg:
         info: |
           колаж. изрежи и постави<br>
           каталог<br>
-          <a href="http://www.greekstatemuseum.com/kmst/index.html">държавен музей за съвременно изкуство</a><br>
+          <a href="http://www.greekstatemuseum.com/kmst/index.html">дмси</a>, солун<br>
           2008
       - url-name: personal-political
         file: personal-political.jpg
@@ -516,6 +517,7 @@ bg:
           <a href="http://biennale2.thessalonikibiennale.gr/">biennale:2</a>, паралелна програма<br>
           каталог<br>
           съавтор арети леопулу<br>
+          <a href="http://www.cact.gr/">цси</a>, солун<br>
           2009
   poster:
     info: ''
