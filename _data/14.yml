@@ -263,6 +263,15 @@ en:
           georgi dimitrov<br>
           orthogonal poster, 2014<br>
           115 silkscreen prints
+  video:
+    info: ''
+    artworks:
+      - url-name: opening-speech
+        file: ''
+        info: |
+          georgi dimitrov<br>
+          opening speech<br>
+          video
 
 bg:
   anna-maria-bogner:
@@ -528,3 +537,12 @@ bg:
           георги димитров<br>
           плакат ортогонал, 2014<br>
           115 копия, ситопечат
+  video:
+    info: ''
+    artworks:
+      - url-name: opening-speech
+        file: ''
+        info: |
+          георги димитров<br>
+          откриване<br>
+          видео

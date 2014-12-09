@@ -4,9 +4,13 @@
     {{ page.info }}
   </div>
 
-  {% if page.url contains 'video' %}
+  {% if page.url contains 'video' and page.year == '12' %}
       <div {{ class }} id="artwork">
         <iframe src="http://player.vimeo.com/video/68358107" width="470" height="350" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+      </div>
+  {% elsif page.url contains 'video' and page.year == '14' %}
+      <div {{ class }} id="artwork">
+        <iframe src="http://player.vimeo.com/video/108899247" width="470" height="350" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
       </div>
   {% else %}
 
