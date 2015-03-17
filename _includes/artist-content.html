@@ -26,7 +26,7 @@
       {% assign class = nil %}
       {% if page.url contains 'views' %}
         {% assign class = 'class="views"' %}
-      <div id="paging" style="clear: left">
+      <div id="paging" style="clear: both">
         {% for artwork in page.artworks %}
           {% assign active = nil %}
           {% if page.current.url-name == artwork.url-name %}
