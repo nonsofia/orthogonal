@@ -97,7 +97,8 @@ en:
   guillaume-millet:
     info: |
       1970<br>
-      france
+      france<br>
+      <a href="http://guillaumemillet.fr">guillaumemillet.fr</a>
     artworks:
       - url-name: "1"
         file: untitled-1.jpg
@@ -166,7 +167,7 @@ en:
           80 x 80 cm
   max-bill:
     info: |
-      1908<br>
+      1908 - 1994<br>
       switzerland<br>
       <a href="http://hausbill.ch/">hausbill.ch</a>
     artworks:
@@ -266,56 +267,56 @@ en:
   views:
     info: ''
     artworks:
-      - url-name: 14-1
-        file: 14-1.jpg
+      - url-name: bh-aj-gd-bb
+        file: 1-bh-aj-gd-bb.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-2
-        file: 14-2.jpg
+      - url-name: gd-mc-bh-aj
+        file: 2-gd-mc-bh-aj.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-3
-        file: 14-3.jpg
+      - url-name: mc-bh-aj
+        file: 3-mc-bh-aj.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-4
-        file: 14-4.jpg
+      - url-name: bh-aj-gd
+        file: 4-bh-aj-gd.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-5
-        file: 14-5.jpg
+      - url-name: aj-gd-bb
+        file: 5-aj-gd-bb.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-6
-        file: 14-6.jpg
+      - url-name: gd-bb-ks
+        file: 6-gd-bb-ks.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-7
-        file: 14-7.jpg
+      - url-name: yv-mc-mb
+        file: 7-yv-mc-mb.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-8
-        file: 14-8.jpg
+      - url-name: mb
+        file: 8-mb.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
           anna-maria bogner simon ingram
-      - url-name: 14-9
-        file: 14-9.jpg
+      - url-name: ks-gm-amb-si
+        file: 9-ks-gm-amb-si.jpg
         info: |
           in order of appearance: bruno haas arjan janssen georgi dimitrov bob bonies <br>
           maria chakarova krasimira stikar yorgos vourlidas max bill guillaume millet<br>
@@ -428,7 +429,8 @@ bg:
   guillaume-millet:
     info: |
       1970<br>
-      франция
+      франция<br>
+      <a href="http://guillaumemillet.fr">guillaumemillet.fr</a>
     artworks:
       - url-name: "1"
         file: untitled-1.jpg
@@ -497,7 +499,7 @@ bg:
           80 x 80 см
   max-bill:
     info: |
-      1908<br>
+      1908 - 1994<br>
       швейцария<br>
       <a href="http://hausbill.ch/">hausbill.ch</a>
     artworks:
@@ -597,56 +599,56 @@ bg:
   views:
     info: ''
     artworks:
-      - url-name: 14-1
-        file: 14-1.jpg
+      - url-name: bh-aj-gd-bb
+        file: 1-bh-aj-gd-bb.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-2
-        file: 14-2.jpg
+      - url-name: gd-mc-bh-aj
+        file: 2-gd-mc-bh-aj.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-3
-        file: 14-3.jpg
+      - url-name: mc-bh-aj
+        file: 3-mc-bh-aj.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-4
-        file: 14-4.jpg
+      - url-name: bh-aj-gd
+        file: 4-bh-aj-gd.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-5
-        file: 14-5.jpg
+      - url-name: aj-gd-bb
+        file: 5-aj-gd-bb.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-6
-        file: 14-6.jpg
+      - url-name: gd-bb-ks
+        file: 6-gd-bb-ks.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-7
-        file: 14-7.jpg
+      - url-name: yv-mc-mb
+        file: 7-yv-mc-mb.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-8
-        file: 14-8.jpg
+      - url-name: mb
+        file: 8-mb.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
           анна-мария богнер саймън инграм
-      - url-name: 14-9
-        file: 14-9.jpg
+      - url-name: ks-gm-amb-si
+        file: 9-ks-gm-amb-si.jpg
         info: |
           по ред на представянето: бруно хаас арян янсен георги димитров боб бонис<br>
           мария чакърова красимира стикар йоргос вурлидас макс бил гийом мийе<br>
