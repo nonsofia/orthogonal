@@ -94,25 +94,27 @@ bg:
     artworks:
     - file: 1-is.jpg
       info: без заглавие, недатирана (1992?)<br>масло/платно<br>120 х 120 см
-      url-name: untitled
+      url-name: untitled-1
     - file: 2-is.jpg
       info: без заглавие, недатирана (1992?)<br>масло/платно<br>150 х 150 см
-      url-name: untitled
+      url-name: untitled-2
     - file: 3-is.jpg
       info: без заглавие, недатирана (1992?)<br>масло/платно<br>150 х 150 см
-      url-name: untitled
+      url-name: untitled-3
     - file: 4-is.jpg
       info: без заглавие, недатирана (1992?)<br>масло/платно<br>150 х 150 см
-      url-name: untitled
+      url-name: untitled-4
     info: |
       1961 – 1993<br>българия
   judith-duquemin:
     artworks:
     - file: 1-jd.jpg
-      info: картина за реконструкция: червено, 2011<br>акрил/платно<br>47 x 76 см
+      info: |
+          картина за реконструкция: червено, 2011<br>акрил/платно<br>47 x 76 см
       url-name: painting-for-reconstruction--red
     - file: 2-jd.jpg
-      info: картина за реконструкция: жълто, 2011<br>акрил/платно<br>47 x 76 см
+      info: |
+          картина за реконструкция: жълто, 2011<br>акрил/платно<br>47 x 76 см
       url-name: painting-for-reconstruction--yellow
     - file: 3-jd.jpg
       info: пентагон 01, 2014<br>акрил/платно<br>50 x 40 см
@@ -246,25 +248,27 @@ en:
     artworks:
     - file: 1-is.jpg
       info: untitled, undated (1992?)<br>oil/canvas<br>120 x 120 cm
-      url-name: untitled
+      url-name: untitled-1
     - file: 2-is.jpg
       info: untitled, undated (1992?)<br>oil/canvas<br>150 x 150 cm
-      url-name: untitled
+      url-name: untitled-2
     - file: 3-is.jpg
       info: untitled, undated (1992?)<br>oil/canvas<br>150 x 150 cm
-      url-name: untitled
+      url-name: untitled-3
     - file: 4-is.jpg
       info: untitled, undated (1992?)<br>oil/canvas<br>150 x 150 cm
-      url-name: untitled
+      url-name: untitled-4
     info: |
       1961 – 1993<br>bulgaria
   judith-duquemin:
     artworks:
     - file: 1-jd.jpg
-      info: painting for reconstruction: red, 2011<br>acrylic/canvas<br>47 x 76 cm
+      info: |
+          painting for reconstruction: red, 2011<br>acrylic/canvas<br>47 x 76 cm
       url-name: painting-for-reconstruction--red
     - file: 2-jd.jpg
-      info: painting for reconstruction: yellow, 2011<br>acrylic/canvas<br>47 x 76 cm
+      info: |
+          painting for reconstruction: yellow, 2011<br>acrylic/canvas<br>47 x 76 cm
       url-name: painting-for-reconstruction--yellow
     - file: 3-jd.jpg
       info: pentagon 01, 2014<br>acrylic/canvas<br>50 x 40 cm
