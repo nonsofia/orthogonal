@@ -24,8 +24,10 @@
 
         {% if page.year == "12" %}
           {% include nav-12.html %}
-        {% else %}
+        {% elsif page.year == "14" %}
           {% include nav-14.html %}
+        {% elsif page.year == "16" %}
+          {% include nav-16.html %}
         {% endif %}
 
         {{ content }}

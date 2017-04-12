@@ -1,16 +1,20 @@
-  <div id="header">
     {% capture url %}{{ page.url | remove: 'index.html' | remove: 'en/' | remove: 'bg/' }}{% endcapture %}
+  <div id="header">
 
     {% if url == '/' %}
     <a class="active" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
+    <a class="year clean" href="/{{ page.language }}/16"><img src="/images/14.png" alt="14"></a>
     <a class="year clean" href="/{{ page.language }}/14"><img src="/images/14.png" alt="14"></a>
     <a class="year clean" href="/{{ page.language }}/12"><img src="/images/12.png" alt="12"></a>
     {% elsif url contains '/12/' %}
     <a class="" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
     <a class="year active" href="/{{ page.language }}/12"><img src="/images/12.png" alt="12"></a>
-    {% else %}
+    {% elsif url contains '/14/' %}
     <a class="" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
     <a class="year active" href="/{{ page.language }}/14"><img src="/images/14.png" alt="14"></a>
+    {% elsif url contains '/16/' %}
+    <a class="" id="orthogonal" href="/{{ page.language }}/"><img src="/images/orthogonal.png" alt="orthogonal"></a>
+    <a class="year active" href="/{{ page.language }}/16"><img src="/images/16.png" alt="16"></a>
     {% endif %}
     <a id="start" href="/">&nbsp;</a>
   </div>
