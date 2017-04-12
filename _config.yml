@@ -109,4 +109,51 @@ artists:
         name: саймън инграм
       - url-name: theodore-markoglou
         name: тодорис маркоглу
+  year16:
+    en:
+    - name: erdem küçükköroğlu
+      url-name: erdem-kucukkoroglu
+    - name: esther hagenmaier
+      url-name: esther-hagenmaier
+    - name: eugen gomringer
+      url-name: eugen-gomringer
+    - name: georgi dimitrov
+      url-name: georgi-dimitrov
+    - name: gisela hoffmann
+      url-name: gisela-hoffmann
+    - name: hanz hancock
+      url-name: hanz-hancock
+    - name: ingo glass
+      url-name: ingo-glass
+    - name: ivan shumanov
+      url-name: ivan-shumanov
+    - name: judith duquemin
+      url-name: judith-duquemin
+    - name: nikolay petkov
+      url-name: nikolay-petkov
+    - name: patrick morrissey
+      url-name: patrick-morissey
+    bg:
+    - name: ердем кючюккороглу
+      url-name: erdem-kucukkoroglu
+    - name: естер хагенмайер
+      url-name: esther-hagenmaier
+    - name: ойген гомрингер
+      url-name: eugen-gomringer
+    - name: георги димитров
+      url-name: georgi-dimitrov
+    - name: гизела хофман
+      url-name: gisela-hoffmann
+    - name: ханз ханкок
+      url-name: hanz-hancock
+    - name: инго глас
+      url-name: ingo-glass
+    - name: иван шуманов
+      url-name: ivan-shumanov
+    - name: джудит дюкмин
+      url-name: judith-duquemin
+    - name: николай петков
+      url-name: nikolay-petkov
+    - name: патрик мориси
+      url-name: patrick-morissey
 
