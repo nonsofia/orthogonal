@@ -1,0 +1,305 @@
+---
+bg:
+  erdem-kucukkoroglu:
+    artworks:
+    - file: 1.jpg
+      info: серия равновесие 5, 2011<br>акрил/платно<br>120 x 90 см
+      url-name: equilibrium-series-no-5
+    - file: 2.jpg
+      info: серия равновесие 18, 2011<br>акрил/платно<br>80 x 60 см
+      url-name: equilibrium-series-no-18
+    - file: 3.jpg
+      info: серия геометрична конструкция, 2009<br>въглен/хартия<br>24 x 18 см<br>
+      url-name: geometric-construction-series
+    info: 1979<br>турция<br><a href="http://geometrivesanat.com/">geometrivesanat.com</a>
+  esther-hagenmaier:
+    artworks:
+    - file: 1.jpg
+      info: bildkörper 02, 2015<br>ламда-принт/алу-дибонд<br>34 x 50 см
+      url-name: bildkörper-02
+    - file: 2.jpg
+      info: bildkörper 03, 2015<br>ламда-принт/алу-дибонд<br>34 x 53 см
+      url-name: bildkörper-03
+    - file: 3.jpg
+      info: kt_05, 2014 <br>фотограма/форекс <br>60 x 62 см
+      url-name: kt_05
+    - file: 4.jpg
+      info: a_04, 2014 <br>фотограма/форекс<br>39 x 42 см <br>
+      url-name: a_04
+    info: 1975<br>германия<br><a href="http://esther-hagenmaier.com/">esther-hagenmaier.com</a>
+  eugen-gomringer:
+    artworks:
+    - file: 1.jpg
+      info: вятър, 1953
+      url-name: wind
+    - file: 2.jpg
+      info: пинг понг, 1953
+      url-name: ping-pong
+    - file: 3.jpg
+      info: тишина, 1954
+      url-name: silencio
+    info: 1925<br>швейцария<br><a href="http://gomringer.de/">gomringer.de</a>
+  georgi-dimitrov:
+    artworks:
+    - file: 1-orthogonal-system-2015-quadriptych.jpg
+      info: ортогонална система (квадриптих), 2015<br>масло/платно<br>145 x 145 см
+      url-name: orthogonal-system-quadriptych
+    - file: 2-16-2.jpg
+      info: ортогонална композиция (a + b - b), 2016 <br>масло/платно<br>141 см диагонал
+      url-name: orthogonal-composition-ab-b
+    - file: 3-16.jpg
+      info: ортогонална композиция (a + b - a), 2016 <br>масло/платно<br>141 см диагонал
+      url-name: orthogonal-composition-ab-a
+    info: 1980 <br>българия<br><a href="http://larypsed.com/">larypsed.com</a>
+  gisela-hoffmann:
+    artworks:
+    - file: 1-gh.jpg
+      info: линия в пространството 23 (in situ), 2010<br>цветна лента<br>312 x 443 x 468 см
+      url-name: raumlinie-23
+    - file: 2-gh.jpg
+      info: линии в пространството 26, 2013<br>цветна лента (издание от 3)<br>144 x 58 x 42 см
+      url-name: raumlinien-26
+    - file: 3-gh.jpg
+      info: съцветие в оранжево 119, 2016 <br>акрилно стъкло<br>
+      url-name: cluster-orange-119
+    info: 1963<br>германия<br><a href="http://hoffmann-gisela.com/">hoffmann-gisela.com</a>
+  hanz-hancock:
+    artworks:
+    - file: 1-hh.JPG
+      info: несъвършена реверсия, 2013<br>акрил/дърво<br>40 х 40 см
+      url-name: imperfect-reverse
+    - file: 2-hh.jpg
+      info: трикорн 2, 2014<br>акрил/дърво<br>18 x 18 см
+      url-name: tricorn-2
+    - file: 3-hh.jpg
+      info: трикорн 3, 2014<br>акрил/дърво<br>23 x 23 см
+      url-name: tricorn-3
+    - file: 4-hh.JPG
+      info: рисунка, 2016<br>акрил/дърво<br>20 х 20 см<br>
+      url-name: drawing
+    info: 1958<br>обединено кралство<br><a href="http://patrickmorrisseyhanz.co.uk/">patrickmorrisseyhanz.co.uk</a>
+  ingo-glass:
+    artworks:
+    - file: 1-ig.jpg
+      info: трансформация на квадрат, 2010<br>алуминий<br>60 x 70 x 60 см
+      url-name: square-transformation
+    - file: 2-ig.jpg
+      info: доминиращ кръг, 2012<br>алуминий<br>60 x 35 x 60 см
+      url-name: dominant-circle
+    - file: 3-ig.jpg
+      info: почит към вазарели, 2012<br>алуминий <br>60 x 30 x 60 см<br>
+      url-name: homage-to-vasarely
+    info: 1941<br>румъния/германия
+  ivan-shumanov:
+    artworks:
+    - file: 1-is.jpg
+      info: без заглавие, недатирана (1992?)<br>масло/платно<br>120 х 120 см
+      url-name: untitled
+    - file: 2-is.jpg
+      info: без заглавие, недатирана (1992?)<br>масло/платно<br>150 х 150 см
+      url-name: untitled
+    - file: 3-is.jpg
+      info: без заглавие, недатирана (1992?)<br>масло/платно<br>150 х 150 см
+      url-name: untitled
+    - file: 4-is.jpg
+      info: без заглавие, недатирана (1992?)<br>масло/платно<br>150 х 150 см
+      url-name: untitled
+    info: |
+      1961 – 1993<br>българия
+  judith-duquemin:
+    artworks:
+    - file: 1-jd.jpg
+      info: картина за реконструкция: червено, 2011<br>акрил/платно<br>47 x 76 см
+      url-name: painting-for-reconstruction--red
+    - file: 2-jd.jpg
+      info: картина за реконструкция: жълто, 2011<br>акрил/платно<br>47 x 76 см
+      url-name: painting-for-reconstruction--yellow
+    - file: 3-jd.jpg
+      info: пентагон 01, 2014<br>акрил/платно<br>50 x 40 см
+      url-name: pentagon-01
+    - file: 4-jd.jpg
+      info: пентагон 02, 2014<br>акрил/платно<br>40 x 50 см<br>
+      url-name: pentagon-02
+    info: 1953<br>австралия/обединено кралство<br><a href="http://judithduquemin.com/">judithduquemin.com</a>
+  nikolay-petkov:
+    artworks:
+    - file: 1-plana.jpg
+      info: план а, 2016<br>акварел/хартия<br>40 x 50 см
+      url-name: plan-a
+    - file: 2-planb.jpg
+      info: план б, 2016<br>акварел/хартия<br>40 x 50 см
+      url-name: plan-b
+    - file: 3-3qredsquare.JPG
+      info: ¾ червен квадрат, 2016<br>масло/платно<br>60 x 80 см
+      url-name: 3q-red-square
+    - file: 4-planetree.JPG
+      info: чинар, 2017<br>масло/платно<br>60 x 80 см<br>
+      url-name: plane-tree
+    info: 1967<br>българия
+  patrick-morissey:
+    artworks:
+    - file: 1-pm.jpg
+      info: съмнение, 2012<br>акрил/платно <br>91.5 x 91.5 см
+      url-name: doubt
+    - file: 2-pm.JPG
+      info: без заглавие, 2014<br>акрил/дърво<br>60 х 60 см
+      url-name: untitled
+    - file: 3-pm.jpg
+      info: етюд 12, 2014<br>акрил/платно<br>40 x 40 см
+      url-name: study-12
+    - file: 4-pm.JPG
+      info: кралицата е мъртва, 2016<br>акрил/дърво<br>40 x 40 см<br>
+      url-name: the-queen-is-dead
+    info: 1957<br>обединено кралство<br><a href="http://patrickmorrisseyhanz.co.uk/">patrickmorrisseyhanz.co.uk</a>
+en:
+  erdem-kucukkoroglu:
+    artworks:
+    - file: 1.jpg
+      info: equilibrium series no:5, 2011<br>acrylic/canvas<br>120 x 90 cm
+      url-name: equilibrium-series-no-5
+    - file: 2.jpg
+      info: equilibrium series no:18, 2011<br>acrylic/canvas<br>80 x 60 cm
+      url-name: equilibrium-series-no-18
+    - file: 3.jpg
+      info: geometric construction series, 2009<br>charcoal/paper<br>24 x 18 cm
+      url-name: geometric-construction-series
+    info: 1979<br>turkey<br><a href="http://geometrivesanat.com/">geometrivesanat.com</a>
+  esther-hagenmaier:
+    artworks:
+    - file: 1.jpg
+      info: bildkörper 02, 2015<br>lambda-print/alu-dibond<br>34 x 50 cm
+      url-name: bildkörper-02
+    - file: 2.jpg
+      info: bildkörper 03, 2015<br>lambda-print/alu-dibond<br>34 x 53 cm
+      url-name: bildkörper-03
+    - file: 3.jpg
+      info: kt_05, 2014 <br>handprint/forex <br>60 x 62 cm
+      url-name: kt_05
+    - file: 4.jpg
+      info: a_04, 2014 <br>handprint/forex <br>39 x 42 cm
+      url-name: a_04
+    info: 1975<br>germany<br><a href="http://esther-hagenmaier.com/">esther-hagenmaier.com</a>
+  eugen-gomringer:
+    artworks:
+    - file: 1.jpg
+      info: wind, 1953
+      url-name: wind
+    - file: 2.jpg
+      info: ping pong, 1953
+      url-name: ping-pong
+    - file: 3.jpg
+      info: silencio, 1954
+      url-name: silencio
+    info: 1925<br>switzerland<br><a href="http://gomringer.de/">gomringer.de</a>
+  georgi-dimitrov:
+    artworks:
+    - file: 1-orthogonal-system-2015-quadriptych.jpg
+      info: orthogonal system (quadriptych), 2015<br>oil/canvas<br>145 x 145 cm
+      url-name: orthogonal-system-quadriptych
+    - file: 2-16-2.jpg
+      info: orthogonal composition (a+b-b), 2016 <br>oil/canvas<br>141 cm diagonal
+      url-name: orthogonal-composition-ab-b
+    - file: 3-16.jpg
+      info: orthogonal composition (a+b-a), 2016 <br>oil/canvas<br>141 cm diagonal
+      url-name: orthogonal-composition-ab-a
+    info: 1980<br>bulgaria<br><a href="http://larypsed.com/">larypsed.com</a>
+  gisela-hoffmann:
+    artworks:
+    - file: 1-gh.jpg
+      info: raumlinie 23 (in situ), 2010<br>coloured fabric<br>312 x 443 x 468 cm
+      url-name: raumlinie-23
+    - file: 2-gh.jpg
+      info: raumlinien 26, 2013<br>coloured fabric (edition of 3)<br>144 x 58 x 42 cm
+      url-name: raumlinien-26
+    - file: 3-gh.jpg
+      info: cluster orange 119, 2016 <br>acrylic glass
+      url-name: cluster-orange-119
+    info: 1963<br>germany<br><a href="http://hoffmann-gisela.com/">hoffmann-gisela.com</a>
+  hanz-hancock:
+    artworks:
+    - file: 1-hh.JPG
+      info: imperfect reverse, 2013<br>acrylic/wood<br>40 x 40 cm
+      url-name: imperfect-reverse
+    - file: 2-hh.jpg
+      info: tricorn 2, 2014<br>acrylic/wood<br>18 x 18 cm
+      url-name: tricorn-2
+    - file: 3-hh.jpg
+      info: tricorn 3, 2014<br>acrylic/wood<br>23 x 23 cm
+      url-name: tricorn-3
+    - file: 4-hh.JPG
+      info: drawing, 2016<br>acrylic/wood<br>20 x 20 cm
+      url-name: drawing
+    info: 1958<br>united kingdom<br><a href="http://patrickmorrisseyhanz.co.uk/">patrickmorrisseyhanz.co.uk</a>
+  ingo-glass:
+    artworks:
+    - file: 1-ig.jpg
+      info: square transformation, 2010<br>aluminium <br>60 x 70 x 60 cm
+      url-name: square-transformation
+    - file: 2-ig.jpg
+      info: dominant circle, 2012<br>aluminium <br>60 x 35 x 60 cm
+      url-name: dominant-circle
+    - file: 3-ig.jpg
+      info: homage to vasarely, 2012<br>aluminium  <br>60 x 30 x 60 cm
+      url-name: homage-to-vasarely
+    info: 1941<br>romania/germany
+  ivan-shumanov:
+    artworks:
+    - file: 1-is.jpg
+      info: untitled, undated (1992?)<br>oil/canvas<br>120 x 120 cm
+      url-name: untitled
+    - file: 2-is.jpg
+      info: untitled, undated (1992?)<br>oil/canvas<br>150 x 150 cm
+      url-name: untitled
+    - file: 3-is.jpg
+      info: untitled, undated (1992?)<br>oil/canvas<br>150 x 150 cm
+      url-name: untitled
+    - file: 4-is.jpg
+      info: untitled, undated (1992?)<br>oil/canvas<br>150 x 150 cm
+      url-name: untitled
+    info: |
+      1961 – 1993<br>bulgaria
+  judith-duquemin:
+    artworks:
+    - file: 1-jd.jpg
+      info: painting for reconstruction: red, 2011<br>acrylic/canvas<br>47 x 76 cm
+      url-name: painting-for-reconstruction--red
+    - file: 2-jd.jpg
+      info: painting for reconstruction: yellow, 2011<br>acrylic/canvas<br>47 x 76 cm
+      url-name: painting-for-reconstruction--yellow
+    - file: 3-jd.jpg
+      info: pentagon 01, 2014<br>acrylic/canvas<br>50 x 40 cm
+      url-name: pentagon-01
+    - file: 4-jd.jpg
+      info: pentagon 02, 2014<br>acrylic/canvas<br>40 x 50 cm
+      url-name: pentagon-02
+    info: 1953<br>australia/united kingdom<br><a href="http://judithduquemin.com/">judithduquemin.com</a>
+  nikolay-petkov:
+    artworks:
+    - file: 1-plana.jpg
+      info: plan a, 2016<br>watercolour/paper<br>40 x 50 cm
+      url-name: plan-a
+    - file: 2-planb.jpg
+      info: plan b, 2016<br>watercolour/paper<br>40 x 50 cm
+      url-name: plan-b
+    - file: 3-3qredsquare.JPG
+      info: ¾ red square, 2016<br>oil/canvas<br>60 x 80 cm
+      url-name: 3q-red-square
+    - file: 4-planetree.JPG
+      info: plane tree, 2017<br>oil/canvas<br>60 x 80 cm
+      url-name: plane-tree
+    info: 1967<br>bulgaria
+  patrick-morissey:
+    artworks:
+    - file: 1-pm.jpg
+      info: doubt, 2012<br>acrylic/linen<br>91.5 x 91.5 cm
+      url-name: doubt
+    - file: 2-pm.JPG
+      info: untitled, 2014<br>acrylic/wood<br>60 x 60 cm
+      url-name: untitled
+    - file: 3-pm.jpg
+      info: study 12, 2014<br>acrylic/linen<br>40 x 40 cm
+      url-name: study-12
+    - file: 4-pm.JPG
+      info: the queen is dead, 2016<br>acrylic/wood<br>40 x 40 cm
+      url-name: the-queen-is-dead
+    info: 1957<br>united kingdom<br><a href="http://patrickmorrisseyhanz.co.uk/">patrickmorrisseyhanz.co.uk</a>
