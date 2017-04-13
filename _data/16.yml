@@ -153,6 +153,23 @@ bg:
       info: кралицата е мъртва, 2016<br>акрил/дърво<br>40 x 40 см<br>
       url-name: the-queen-is-dead
     info: 1957<br>обединено кралство<br><a href="http://patrickmorrisseyhanz.co.uk/">patrickmorrisseyhanz.co.uk</a>
+  petar-dochev:
+    info: |
+      1934 – 2005<br>
+      българия
+    artworks:
+      - file: 1-pd.jpg
+        url-name: circle
+        info: |
+          кръг, 2005<br>
+          смесена техника/шперплат<br>
+          100 x 100 см
+      - file: 2-pd.jpg
+        url-name: untitled
+        info: |
+          без заглавие, недатирана (2002?)<br>
+          графит/дърво<br>
+          40.5 х 34 см
 en:
   erdem-kucukkoroglu:
     artworks:
@@ -307,3 +324,20 @@ en:
       info: the queen is dead, 2016<br>acrylic/wood<br>40 x 40 cm
       url-name: the-queen-is-dead
     info: 1957<br>united kingdom<br><a href="http://patrickmorrisseyhanz.co.uk/">patrickmorrisseyhanz.co.uk</a>
+  petar-dochev:
+    info: |
+      1934 – 2005<br>
+      bulgaria
+    artworks:
+      - file: 1-pd.jpg
+        url-name: circle
+        info: |
+          circle, 2005<br>
+          mixed media/plywood<br>
+          100 x 100 cm
+      - file: 2-pd.jpg
+        url-name: untitled
+        info: |
+          untitled, undated (2002?)<br>
+          graphite/wood<br>
+          34 x 40.5 cm
