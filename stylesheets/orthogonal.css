@@ -246,6 +246,10 @@ em {
   height: 296px;
 }
 
+.year16 #author-content {
+  height: 296px;
+}
+
 #author-details {
   z-index: 1000;
   position: absolute;
@@ -303,6 +307,15 @@ em {
 .year14 #artwork.poster img {
   height: 371px;
 }
+
+.year16 #artwork img {
+  height: 299px;
+}
+
+.year16 #artwork.poster img {
+  height: 371px;
+}
+
 #paging {
   padding-top: 11px;
   text-align: left;

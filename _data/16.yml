@@ -170,6 +170,14 @@ bg:
           без заглавие, недатирана (2002?)<br>
           графит/дърво<br>
           40.5 х 34 см
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster-16.png
+        info: |
+          георги димитров<br>
+          плакат ортогонал, 2016
 en:
   erdem-kucukkoroglu:
     artworks:
@@ -341,3 +349,11 @@ en:
           untitled, undated (2002?)<br>
           graphite/wood<br>
           34 x 40.5 cm
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster-16.png
+        info: |
+          georgi dimitrov<br>
+          orthogonal poster, 2014<br>
