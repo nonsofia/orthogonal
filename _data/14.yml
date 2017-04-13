@@ -141,29 +141,29 @@ en:
       1972<br>
       bulgaria
     artworks:
-      - url-name: composition-in-gray-and-white
-        file: composition-in-gray-and-white.jpg
+      - url-name: square-in-gray-pink-and-blue
+        file: square-in-gray-pink-and-blue.jpg
         info: |
-          composition in<br> gray and white, 2012<br>
+          square in gray, pink and blue, 2014<br>
           oil/canvas<br>
-          80 x 80 cm
-      - url-name: square-2
-        file: square-2.jpg
+          70 x 70 cm
+      - url-name: square-in-blue-red-and-yellow
+        file: square-in-blue-red-and-yellow.jpg
         info: |
-          square 2, 2012<br>
+          square in blue, red and yellow, 2014<br>
           oil/canvas<br>
-          80 x 80 cm
-      - url-name: square-3
-        file: square-3.jpg
+          70 x 70 cm
+      - url-name: black-blue-red-yellow
+        file: black-blue-red-yellow.jpg
         info: |
-          square 3, 2012<br>
+          black, blue, red, yellow, 2014<br>
           oil/canvas<br>
-          80 x 80 cm
-      - url-name: square-4
-        file: square-4.jpg
+          100 x 100 cm
+      - url-name: window
+        file: window.jpg
         info: |
-          square 4, 2012<br>
-          oil/canvas<br>
+          window, 2012
+          oil/canvas
           80 x 80 cm
   max-bill:
     info: |
@@ -472,31 +472,31 @@ bg:
     info: |
       1972<br>
       българия
-    artworks: 
-      - url-name: composition-in-gray-and-white
-        file: composition-in-gray-and-white.jpg
+    artworks:
+      - url-name: square-in-gray-pink-and-blue
+        file: square-in-gray-pink-and-blue.jpg
         info: |
-          композиция в сиво и бяло, 2012<br>
+          квадрат в сиво, розово и синьо, 2014<br>
           масло/платно<br>
-          80 x 80 см
-      - url-name: square-2
-        file: square-2.jpg
+          70 х 70 см
+      - url-name: square-in-blue-red-and-yellow
+        file: square-in-blue-red-and-yellow.jpg
         info: |
-          квадрат 2, 2012<br>
+          квадрат в синьо, червено и жълто, 2014<br>
           масло/платно<br>
-          80 x 80 см
-      - url-name: square-3
-        file: square-3.jpg
+          70 х 70 см
+      - url-name: black-blue-red-yellow
+        file: black-blue-red-yellow.jpg
         info: |
-          квадрат 3, 2012<br>
+          черно, синьо, червено, жълто, 2014<br>
           масло/платно<br>
-          80 x 80 см
-      - url-name: square-4
-        file: square-4.jpg
+          100 х 100 см
+      - url-name: window
+        file: window.jpg
         info: |
-          квадрат 3, 2012<br>
-          масло/платно<br>
-          80 x 80 см
+          прозорец, 2012
+          масло/платно
+          80 х 80 см
   max-bill:
     info: |
       1908 - 1994<br>
