@@ -70,8 +70,8 @@ a:hover {
 }
 
 em {
-  font-style: none;
-  color: #E7001E;
+  font-style: italic;
+  /*color: #E7001E;*/
 }
 
 #wrapper {

@@ -136,28 +136,28 @@ artists:
     - name: petar dochev
       url-name: petar-dochev
     bg:
-    - name: ердем кючюккороглу
-      url-name: erdem-kucukkoroglu
-    - name: естер хагенмайер
-      url-name: esther-hagenmaier
-    - name: ойген гомрингер
-      url-name: eugen-gomringer
     - name: георги димитров
       url-name: georgi-dimitrov
     - name: гизела хофман
       url-name: gisela-hoffmann
-    - name: ханз ханкок
-      url-name: hanz-hancock
-    - name: инго глас
-      url-name: ingo-glass
-    - name: иван шуманов
-      url-name: ivan-shumanov
     - name: джудит дюкмин
       url-name: judith-duquemin
+    - name: ердем кючюккороглу
+      url-name: erdem-kucukkoroglu
+    - name: естер хагенмайер
+      url-name: esther-hagenmaier
+    - name: иван шуманов
+      url-name: ivan-shumanov
+    - name: инго глас
+      url-name: ingo-glass
     - name: николай петков
       url-name: nikolay-petkov
+    - name: ойген гомрингер
+      url-name: eugen-gomringer
     - name: патрик мориси
       url-name: patrick-morissey
     - name: петър дочев
       url-name: petar-dochev
+    - name: ханз ханкок
+      url-name: hanz-hancock
 
