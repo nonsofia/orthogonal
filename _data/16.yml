@@ -15,10 +15,10 @@ bg:
   esther-hagenmaier:
     artworks:
     - file: 1.jpg
-      info: bildkörper 02, 2015<br>ламда-принт/алу-дибонд<br>34 x 50 см
+      info: bildkörper 02, 2015<br>ламда-принт/алу-дибонд<br>50 x 34 см
       url-name: bildkoerper-02
     - file: 2.jpg
-      info: bildkörper 03, 2015<br>ламда-принт/алу-дибонд<br>34 x 53 см
+      info: bildkörper 03, 2015<br>ламда-принт/алу-дибонд<br>53 x 34 см
       url-name: bildkoerper-03
     - file: 3.jpg
       info: kt_05, 2014 <br>фотограма/форекс <br>60 x 62 см
@@ -196,10 +196,10 @@ en:
   esther-hagenmaier:
     artworks:
     - file: 1.jpg
-      info: bildkörper 02, 2015<br>lambda-print/alu-dibond<br>34 x 50 cm
+      info: bildkörper 02, 2015<br>lambda-print/alu-dibond<br>50 x 34 cm
       url-name: bildkoerper-02
     - file: 2.jpg
-      info: bildkörper 03, 2015<br>lambda-print/alu-dibond<br>34 x 53 cm
+      info: bildkörper 03, 2015<br>lambda-print/alu-dibond<br>53 x 34 cm
       url-name: bildkoerper-03
     - file: 3.jpg
       info: kt_05, 2014 <br>handprint/forex <br>60 x 62 cm
