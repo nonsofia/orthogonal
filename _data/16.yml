@@ -3,10 +3,10 @@ bg:
   erdem-kucukkoroglu:
     artworks:
     - file: 1.jpg
-      info: серия равновесие 5, 2011<br>акрил/платно<br>120 x 90 см
+      info: серия <em>равновесие</em> 5, 2011<br>акрил/платно<br>120 x 90 см
       url-name: equilibrium-series-no-5
     - file: 2.jpg
-      info: серия равновесие 18, 2011<br>акрил/платно<br>80 x 60 см
+      info: серия <em>равновесие</em> 18, 2011<br>акрил/платно<br>80 x 60 см
       url-name: equilibrium-series-no-18
     - file: 3.jpg
       info: серия геометрична конструкция, 2009<br>въглен/хартия<br>24 x 18 см<br>
@@ -16,10 +16,10 @@ bg:
     artworks:
     - file: 1.jpg
       info: bildkörper 02, 2015<br>ламда-принт/алу-дибонд<br>34 x 50 см
-      url-name: bildkörper-02
+      url-name: bildkoerper-02
     - file: 2.jpg
       info: bildkörper 03, 2015<br>ламда-принт/алу-дибонд<br>34 x 53 см
-      url-name: bildkörper-03
+      url-name: bildkoerper-03
     - file: 3.jpg
       info: kt_05, 2014 <br>фотограма/форекс <br>60 x 62 см
       url-name: kt_05
@@ -182,10 +182,12 @@ en:
   erdem-kucukkoroglu:
     artworks:
     - file: 1.jpg
-      info: equilibrium series no:5, 2011<br>acrylic/canvas<br>120 x 90 cm
+      info: |
+        equilibrium series no: 5, 2011<br>acrylic/canvas<br>120 x 90 cm
       url-name: equilibrium-series-no-5
     - file: 2.jpg
-      info: equilibrium series no:18, 2011<br>acrylic/canvas<br>80 x 60 cm
+      info: |
+        equilibrium series no: 18, 2011<br>acrylic/canvas<br>80 x 60 cm
       url-name: equilibrium-series-no-18
     - file: 3.jpg
       info: geometric construction series, 2009<br>charcoal/paper<br>24 x 18 cm
@@ -195,10 +197,10 @@ en:
     artworks:
     - file: 1.jpg
       info: bildkörper 02, 2015<br>lambda-print/alu-dibond<br>34 x 50 cm
-      url-name: bildkörper-02
+      url-name: bildkoerper-02
     - file: 2.jpg
       info: bildkörper 03, 2015<br>lambda-print/alu-dibond<br>34 x 53 cm
-      url-name: bildkörper-03
+      url-name: bildkoerper-03
     - file: 3.jpg
       info: kt_05, 2014 <br>handprint/forex <br>60 x 62 cm
       url-name: kt_05
@@ -348,7 +350,7 @@ en:
         info: |
           untitled, undated (2002?)<br>
           graphite/wood<br>
-          34 x 40.5 cm
+          40.5 x 34 cm
   poster:
     info: ''
     artworks:
