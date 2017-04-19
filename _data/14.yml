@@ -162,8 +162,8 @@ en:
       - url-name: window
         file: window.jpg
         info: |
-          window, 2012
-          oil/canvas
+          window, 2012<br>
+          oil/canvas<br>
           80 x 80 cm
   max-bill:
     info: |
@@ -494,8 +494,8 @@ bg:
       - url-name: window
         file: window.jpg
         info: |
-          прозорец, 2012
-          масло/платно
+          прозорец, 2012<br>
+          масло/платно<br>
           80 х 80 см
   max-bill:
     info: |
