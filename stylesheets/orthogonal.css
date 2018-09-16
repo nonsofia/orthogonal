@@ -250,6 +250,10 @@ em {
   height: 296px;
 }
 
+.year18 #author-content {
+  height: 251px;
+}
+
 #author-details {
   z-index: 1000;
   position: absolute;
@@ -314,6 +318,14 @@ em {
 
 .year16 #artwork.poster img {
   height: 371px;
+}
+
+.year18 #artwork img {
+ height: 251px;
+}
+
+.year18 #artwork.poster img {
+  height: 322px;
 }
 
 #paging {
