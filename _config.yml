@@ -160,4 +160,42 @@ artists:
       url-name: petar-dochev
     - name: ханз ханкок
       url-name: hanz-hancock
-
+  year18:
+    en:
+    - name: adriana czernin
+      url-name: adriana-czernin
+    - name: georgi dimitrov
+      url-name: georgi-dimitrov
+    - name: georgi yanakiev
+      url-name: georgi-yanakiev
+    - name: ivan shumanov
+      url-name: ivan-shumanov
+    - name: krasimira stikar
+      url-name: krasimira-stikar
+    - name: maria chakarova
+      url-name: maria-chakarova
+    - name: nikolay diulgheroff
+      url-name: nikolay-diulgheroff
+    - name: nikolay petkov
+      url-name: nikolay-petkov
+    - name: petar dochev
+      url-name: petar-dochev
+    bg:
+    - name: адриана чернин
+      url-name: adriana-czernin
+    - name: георги димитров
+      url-name: georgi-dimitrov
+    - name: георги янакиев
+      url-name: георги-янакиев
+    - name: иван шуманов
+      url-name: ivan-shumanov
+    - name: красимира стикар
+      url-name: krasimira-stikar
+    - name: мария чакърова
+      url-name: maria-chakarova
+    - name: николай дюлгеров
+      url-name: nikolay-diulgheroff
+    - name: николай петков
+      url-name: nikolay-petkov
+    - name: петър дочев
+      url-name: petar-dochev
