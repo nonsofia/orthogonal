@@ -1,0 +1,61 @@
+<div id="nav">
+  <ul class="arrow-nav artists">
+    {% if page.language == 'en' %}
+      {% for artist in site.artists.year18.en %}
+        {% assign active = nil %}
+        {% if page.url contains artist.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        <li><a class="{{ active }}" href="/{{ page.language }}/18/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for artist in site.artists.year18.bg %}
+        {% assign active = nil %}
+        {% if page.url contains artist.url-name %}
+          {% assign active = 'active' %}
+        {% endif %}
+
+        <li><a class="{{ active }}" href="/{{ page.language }}/18/{{ artist.url-name }}/">{{ artist.name }}</a></li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+
+  <div class="separator">
+  </div>
+  <div style="clear: both"></div>
+
+  <ul class="arrow-nav misc">
+    {% assign poster_active = nil %}
+    {% if page.url contains 'poster' %}
+      {% assign poster_active = 'active' %}
+    {% endif %}
+
+    {% assign views_active = nil %}
+    {% if page.url contains 'views' %}
+      {% assign views_active = 'active' %}
+    {% endif %}
+
+    {% assign video_active = nil %}
+    {% if page.url contains 'video' %}
+      {% assign video_active = 'active' %}
+    {% endif %}
+
+    {% if page.language == 'en' %}
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/16/poster">poster</a></li>
+    <!--
+    <li><a target="_blank" href="/documents/orthogonal16-catalogue.pdf">catalogue</a></li>
+    <li><a class="{{ views_active }}" href="/{{ page.language }}/16/views">views</a></li>
+    <li><a class="{{ video_active }}" href="/{{ page.language }}/16/video">video</a></li>
+    -->
+    {% else %}
+    <li><a class="{{ poster_active }}" href="/{{ page.language }}/16/poster">постер</a></li>
+    <!--
+    <li><a target="_blank" href="/documents/orthogonal16-catalogue.pdf">каталог</a></li>
+    <li><a class="{{ views_active }}" href="/{{ page.language }}/16/views">гледки</a></li>
+    <li><a class="{{ video_active }}" href="/{{ page.language }}/16/video">видео</a></li>
+    -->
+    {% endif %}
+  </ul>
+
+</div>
