@@ -1,3 +1,423 @@
 ---
 bg:
+  adriana-czernin:
+    info: |
+      1969<br>
+      българия/австрия<br>
+      <a href="http://www.martinjanda.at/en/artists/adriana-czernin/works/">галерия мартин янда, виена</a>
+    artworks:
+    - file: 1.jpg
+      url-name: untitled-1
+      info: |
+        без заглавие, 2017<br>
+        акварел/молив/цветен молив/хартия<br>
+        50 x 73 см
+    - file: 2.jpg
+      url-name: untitled-2
+      info: |
+        без заглавие, 2017<br>
+        акварел/молив/цветен молив/хартия<br>
+        116 x 116 см
+    - file: 3.jpg
+      url-name: khamsa
+      info: |
+        хамса, 2014<br>
+        акрил/молив/цветен молив/хартия<br>
+        44.2 x 54.5 см
+    - file: 4.jpg
+      url-name: tamania
+      info: |
+        таманиа, 2014<br>
+        акрил/молив/цветен молив/хартия<br>
+        44.2 x 54.5 см
+  georgi-dimitrov:
+    info: 1980 <br>българия<br><a href="http://larypsed.com/">larypsed.com</a>
+    artworks:
+    - file: 1-18-arithmetic-arcangle-blue.jpg
+      url-name: arithmetic-arcangle-blue
+      info: |
+        аритметичен дъгоъгълник (син), 2017<br>
+        масло/платно<br>
+        30 x 30 см
+    - file: 2-18-arcangle.jpg
+      url-name: arcangle-green
+      info: |
+        дъгоъгълник (зелен), 2018<br>
+        масло/платно<br>
+        30 x 30 см
+    - file: 3-18-arithmetic-arcangle-green.jpg
+      url-name: arithmetic-arcangle-green
+      info: |
+        аритметичен дъгоъгълник (зелен), 2018<br>
+        масло/платно<br>
+        80 x 80 см
+  georgi-yanakiev:
+    info: |
+      1933 - 1998<br>
+      българия
+    artworks:
+    - file: 1-movement-of-geometrical-shapes.jpg
+      url-name: movement-of-geometrical-shapes
+      info: |
+        движение на геометрични фигури, 1991<br>
+        масло/платно<br>
+        70 x 50 см
+    - file: 2-composition-2.jpg
+      url-name: composition-2
+      info: |
+        композиция 2, недатирана (1991)<br>
+        масло/платно<br>
+        70 x 50 см
+    - file: 3-composition-1.jpg
+      url-name: composition-1
+      info: |
+        композиция 1, недатирана (1980s)<br>
+        масло/платно<br>
+        48.5 x 50 см
+  ivan-shumanov:
+    info: |
+      1961 - 1993<br>българия
+    artworks:
+    - file: 4-is.jpg
+      url-name: untitled-1
+      info: |
+        без заглавие, недатирана (1992)<br>
+        масло/платно<br>
+        150 x 150 см
+    - file: 2-18-is.jpg
+      url-name: untitled-2
+      info: |
+        без заглавие, недатирана (1992)<br>
+        масло/платно<br>
+        150 x 150 см
+  krasimira-stikar:
+    info: |
+      1980<br>
+      българия/австрия<br>
+      <a href="http://krasimira.at/">krasimira.at</a>
+    artworks:
+    - file: 1-web.jpg
+      url-name: widescreen-part-1
+      info: |
+        широк екран (квадриптих, част 1), 2009<br>
+        молив/хартия</br>
+        44 x 25,5 см
+    - file: 2-web.jpg
+      url-name: widescreen-part-2
+      info: |
+        широк екран (квадриптих, част 2), 2009<br>
+        молив/хартия</br>
+        44 x 25,5 см
+    - file: 3-web.jpg
+      url-name: widescreen-part-3
+      info: |
+        широк екран (квадриптих, част 3), 2009<br>
+        молив/хартия</br>
+        44 x 25,5 см
+    - file: 4-web.jpg
+      url-name: widescreen-part-4
+      info: |
+        широк екран (квадриптих, част 4), 2009<br>
+        молив/хартия</br>
+        44 x 25,5 см
+  maria-chakarova:
+    info: |
+      1972<br>
+      българия
+    artworks:
+    - url-name: black-and-white-part-1
+      file: 1-black-and-white.jpg
+      info: |
+        черно и бяло (триптих, част 1), 2009<br>
+        масло/платно<br>
+        156 x 156 см
+    - url-name: black-and-white-part-2
+      file: 2-black-and-white.jpg
+      info: |
+        черно и бяло (триптих, част 2), 2009<br>
+        масло/платно<br>
+        156 x 156 см
+    - url-name: black-and-white-part-3
+      file: 3-black-and-white.jpg
+      info: |
+        черно и бяло (триптих, част 3), 2009<br>
+        масло/платно<br>
+        156 x 156 см
+  nikolay-diulgheroff:
+    info: |
+      1901 - 1982<br>
+      българия/италия<br>
+      courtesy <a href="http://rakursi.com/">галерия ракурси</a>, софия
+    artworks:
+    - url-name: multicollage-1
+      file: 1-multicollage.jpg
+      info: |
+        мултиколаж, 1974<br>
+        колаж/картон<br>
+        40 x 40 см
+    - url-name: multicollage-2
+      file: 2-multicollage.jpg
+      info: |
+        мултиколаж, 1974<br>
+        сериграфия<br>
+        43 x 43 см
+  nikolay-petkov:
+    info: 1967<br>българия
+    artworks:
+    - url-name: rose-monochrome-light-and-shadow
+      file: 1-rose-monochrome.jpg
+      info: |
+        розов монохром: светлина и сянка, 2014<br>
+        масло/платно<br>
+        40 x 50 см
+    - url-name: reconstruction-a
+      file: 1-reconstruction-a.jpg
+      info: |
+        реконструкция а, 2014<br>
+        акварел/хартия<br>
+        30 x 42 см
+  petar-dochev:
+    info: |
+      1934 - 2005<br>
+      българия
+    artworks:
+    - file: 18-1-pd.jpg
+      url-name: untitled-1
+      info: |
+          без заглавие, 2003<br>
+          графит/шперплат<br>
+          100 x 100 см
+    - file: 18-2-pd.jpg
+      url-name: untitled-2
+      info: |
+          без заглавие, недатирана (2003)<br>
+          смесена техника/дърво<br>
+          34.5 x 25 см
+    - file: 18-3-pd.jpg
+      url-name: untitled-3
+      info: |
+          без заглавие, недатирана (2003)<br>
+          графит/дърво
+          36 x 24.5 см
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster-18.png
+        info: |
+          георги димитров<br>
+          плакат ортогонал, 2018
+
+
+
+
+
+
 en:
+  adriana-czernin:
+    info: |
+      1969<br>
+      bulgaria/austria<br>
+      courtesy <a href="http://www.martinjanda.at/en/artists/adriana-czernin/works/">martin janda</a>
+    artworks:
+    - file: 1.jpg
+      url-name: untitled-1
+      info: |
+        untitled, 2017<br>
+        watercolour/pencil/coloured pencil/paper<br>
+        50 x 73 cm
+    - file: 2.jpg
+      url-name: untitled-2
+      info: |
+        untitled, 2017<br>
+        watercolour/pencil/coloured pencil/paper<br>
+        116 x 116 cm
+    - file: 3.jpg
+      url-name: khamsa
+      info: |
+        khamsa, 2014<br>
+        acrylic/pencil/coloured pencil/paper<br>
+        44.2 x 54.5 cm
+    - file: 4.jpg
+      url-name: tamania
+      info: |
+        tamania, 2014<br>
+        acrylic/pencil/coloured pencil/paper<br>
+        44.2 x 54.5 cm
+  georgi-dimitrov:
+    info: 1980<br>bulgaria<br><a href="http://larypsed.com/">larypsed.com</a>
+    artworks:
+    - file: 1-18-arithmetic-arcangle-blue.jpg
+      url-name: arithmetic-arcangle-blue
+      info: |
+        arithmetic arcangle (blue), 2017<br>
+        oil/canvas<br>
+        30 x 30 cm
+    - file: 2-18-arcangle.jpg
+      url-name: arcangle-green
+      info: |
+        arcangle (green), 2018<br>
+        oil/canvas<br>
+        30 x 30 cm
+    - file: 3-18-arithmetic-arcangle-green.jpg
+      url-name: arithmetic-arcangle-green
+      info: |
+        arithmetic arcangle (green), 2018<br>
+        oil/canvas<br>
+        80 x 80 cm
+  georgi-yanakiev:
+    info: |
+      1933 - 1998<br>
+      bulgaria
+    artworks:
+    - file: 1-movement-of-geometrical-shapes.jpg
+      url-name: movement-of-geometrical-shapes
+      info: |
+          movement of geometrical shapes, 1991<br>
+          oil/canvas<br>
+          70 x 50 cm
+    - file: 2-composition-2.jpg
+      url-name: composition-2
+      info: |
+        composition 2, undated (1991)<br>
+        oil/canvas<br>
+        70 x 50 cm
+    - file: 3-composition-1.jpg
+      url-name: composition-1
+      info: |
+        composition 1, undated (1980s)<br>
+        oil/canvas<br>
+        48.5 x 50 cm
+  ivan-shumanov:
+    info: |
+      1961 - 1993<br>bulgaria
+    artworks:
+    - file: 4-is.jpg
+      url-name: untitled-1
+      info: |
+        untitled, undated (1992)<br>
+        oil/canvas<br>
+        150 x 150 cm
+    - file: 2-18-is.jpg
+      url-name: untitled-2
+      info: |
+        untitled, undated (1992)<br>
+        oil/canvas<br>
+        150 x 150 cm
+  krasimira-stikar:
+    info: |
+      1980<br>
+      bulgaria/austria<br>
+      <a href="http://krasimira.at/">krasimira.at</a>
+    artworks:
+    - file: 1-web.jpg
+      url-name: widescreen-part-1
+      info: |
+        widescreen (quadriptych, part 1), 2009<br>
+        pencil/paper</br>
+        44 x 25,5 cm
+    - file: 2-web.jpg
+      url-name: widescreen-part-2
+      info: |
+        widescreen (quadriptych, part 2), 2009<br>
+        pencil/paper</br>
+        44 x 25,5 cm
+    - file: 3-web.jpg
+      url-name: widescreen-part-3
+      info: |
+        widescreen (quadriptych, part 3), 2009<br>
+        pencil/paper</br>
+        44 x 25,5 cm
+    - file: 4-web.jpg
+      url-name: widescreen-part-4
+      info: |
+        widescreen (quadriptych, part 4), 2009<br>
+        pencil/paper</br>
+        44 x 25,5 cm
+  maria-chakarova:
+    info: |
+      1972<br>
+      bulgaria
+    artworks:
+    - url-name: black-and-white-part-1
+      file: 1-black-and-white.jpg
+      info: |
+        black and white (triptych, part 1), 2009<br>
+        oil/canvas<br>
+        156 x 156 cm
+    - url-name: black-and-white-part-2
+      file: 2-black-and-white.jpg
+      info: |
+        black and white (triptych, part 2), 2009<br>
+        oil/canvas<br>
+        156 x 156 cm
+    - url-name: black-and-white-part-3
+      file: 3-black-and-white.jpg
+      info: |
+        black and white (triptych, part 3), 2009<br>
+        oil/canvas<br>
+        156 x 156 cm
+  nikolay-diulgheroff:
+    info: |
+      1901 - 1982<br>
+      bulgaria/italy<br>
+      courtesy <a href="http://rakursi.com/">rakursi art gallery</a>, sofia
+    artworks:
+    - url-name: multicollage-1
+      file: 1-multicollage.jpg
+      info: |
+        multicollage, 1974<br>
+        collage/cardboard<br>
+        40 x 40 cm
+    - url-name: multicollage-2
+      file: 2-multicollage.jpg
+      info: |
+        multicollage, 1974<br>
+        serigraphy<br>
+        43 x 43 cm
+  nikolay-petkov:
+    info: 1967<br>bulgaria
+    artworks:
+    - url-name: rose-monochrome-light-and-shadow
+      file: 1-rose-monochrome.jpg
+      info: |
+        rose monochrome: light and shadow, 2014<br>
+        oil/canvas<br>
+        40 x 50 cm
+    - url-name: reconstruction-a
+      file: 1-reconstruction-a.jpg
+      info: |
+        reconstruction a, 2014<br>
+        watercolour/paper<br>
+        30 x 42 cm
+  petar-dochev:
+    info: |
+      1934 - 2005<br>
+      bulgaria
+    artworks:
+    - file: 18-1-pd.jpg
+      url-name: untitled-1
+      info: |
+          untitled, 2003<br>
+          graphite/plywood<br>
+          100 x 100 cm
+    - file: 18-2-pd.jpg
+      url-name: untitled-2
+      info: |
+          untitled, undated (ca. 2003)<br>
+          mixed media/wood<br>
+          34.5 x 25 cm
+    - file: 18-3-pd.jpg
+      url-name: untitled-3
+      info: |
+          untitled, undated (ca. 2003)<br>
+          graphite/wood
+          36 x 24.5 cm
+  poster:
+    info: ''
+    artworks:
+      - url-name: orthogonal-poster
+        file: poster-18.png
+        info: |
+          georgi dimitrov<br>
+          orthogonal poster, 2018<br>
