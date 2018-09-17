@@ -101,25 +101,25 @@ bg:
       info: |
         широк екран (квадриптих, част 1), 2009<br>
         молив/хартия</br>
-        44 x 25,5 см
+        25,5 x 44 см
     - file: 2-web.jpg
       url-name: widescreen-part-2
       info: |
         широк екран (квадриптих, част 2), 2009<br>
         молив/хартия</br>
-        44 x 25,5 см
+        25,5 x 44 см
     - file: 3-web.jpg
       url-name: widescreen-part-3
       info: |
         широк екран (квадриптих, част 3), 2009<br>
         молив/хартия</br>
-        44 x 25,5 см
+        25,5 x 44 см
     - file: 4-web.jpg
       url-name: widescreen-part-4
       info: |
         широк екран (квадриптих, част 4), 2009<br>
         молив/хартия</br>
-        44 x 25,5 см
+        25,5 x 44 см
   maria-chakarova:
     info: |
       1972<br>
@@ -147,7 +147,7 @@ bg:
     info: |
       1901 - 1982<br>
       българия/италия<br>
-      courtesy <a href="http://rakursi.com/">галерия ракурси</a>, софия
+      <a href="http://rakursi.com/">галерия ракурси</a>, софия
     artworks:
     - url-name: multicollage-1
       file: 1-multicollage.jpg
@@ -218,7 +218,7 @@ en:
     info: |
       1969<br>
       bulgaria/austria<br>
-      courtesy <a href="http://www.martinjanda.at/en/artists/adriana-czernin/works/">martin janda</a>
+      courtesy <a href="http://www.martinjanda.at/en/artists/adriana-czernin/works/">martin janda, wien</a>
     artworks:
     - file: 1.jpg
       url-name: untitled-1
@@ -315,25 +315,25 @@ en:
       info: |
         widescreen (quadriptych, part 1), 2009<br>
         pencil/paper</br>
-        44 x 25,5 cm
+        25,5 x 44 cm
     - file: 2-web.jpg
       url-name: widescreen-part-2
       info: |
         widescreen (quadriptych, part 2), 2009<br>
         pencil/paper</br>
-        44 x 25,5 cm
+        25,5 x 44 cm
     - file: 3-web.jpg
       url-name: widescreen-part-3
       info: |
         widescreen (quadriptych, part 3), 2009<br>
         pencil/paper</br>
-        44 x 25,5 cm
+        25,5 x 44 cm
     - file: 4-web.jpg
       url-name: widescreen-part-4
       info: |
         widescreen (quadriptych, part 4), 2009<br>
         pencil/paper</br>
-        44 x 25,5 cm
+        25,5 x 44 cm
   maria-chakarova:
     info: |
       1972<br>
