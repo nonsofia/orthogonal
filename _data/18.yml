@@ -11,7 +11,7 @@ bg:
       info: |
         без заглавие, 2017<br>
         акварел/молив/цветен молив/хартия<br>
-        73 x 50 см
+        53 x 70 см
     - file: 2.jpg
       url-name: untitled-2
       info: |
@@ -184,7 +184,7 @@ bg:
     - file: 18-1-pd.jpg
       url-name: untitled-1
       info: |
-          без заглавие, 2003<br>
+          без заглавие, 2005<br>
           графит/шперплат<br>
           100 x 100 см
     - file: 18-2-pd.jpg
@@ -225,7 +225,7 @@ en:
       info: |
         untitled, 2017<br>
         watercolour/pencil/coloured pencil/paper<br>
-        73 x 50 cm
+        53 x 70 cm
     - file: 2.jpg
       url-name: untitled-2
       info: |
@@ -398,7 +398,7 @@ en:
     - file: 18-1-pd.jpg
       url-name: untitled-1
       info: |
-          untitled, 2003<br>
+          untitled, 2005<br>
           graphite/plywood<br>
           100 x 100 cm
     - file: 18-2-pd.jpg
