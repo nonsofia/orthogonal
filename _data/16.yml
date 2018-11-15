@@ -223,6 +223,16 @@ bg:
           по ред на представянето: ердем кючюккьороглу гизела хофман естер хагенмайер ойген гомрингер<br>
           джудит дюкмин петър дочев патрик мориси николай петков инго глас ханз ханкок<br>
           иван шуманов георги димитров (инсталационни снимки: камен калев)
+  video:
+    info: ''
+    artworks:
+      - url-name: opening-speech
+        file: ''
+        info: |
+          георги димитров<br>
+          откриване<br>
+          видео
+
 en:
   erdem-kucukkoroglu:
     artworks:
@@ -449,3 +459,12 @@ en:
           in order of appearance: erdem küçükköroğlu gisela hoffmann esther hagenmaier eugen gomringer<br>
           judith duquemin petar dochev patrick morrissey nikolay petkov ingo glass hanz hancock<br>
           ivan shumanov georgi dimitrov (installation photos by kamen kalev)
+  video:
+    info: ''
+    artworks:
+      - url-name: opening-speech
+        file: ''
+        info: |
+          georgi dimitrov<br>
+          opening speech<br>
+          video

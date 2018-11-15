@@ -12,6 +12,10 @@
       <div {{ class }} id="artwork">
         <iframe src="http://player.vimeo.com/video/108899247" width="470" height="350" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
       </div>
+  {% elsif page.url contains 'video' and page.year == '16' %}
+      <div {{ class }} id="artwork">
+        <iframe src="http://player.vimeo.com/video/299918619" width="470" height="350" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+      </div>
   {% else %}
 
     {% assign class = nil %}
